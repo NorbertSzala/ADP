@@ -1,0 +1,126 @@
+===============================================================================================================
+=========================================           CRON & API           ======================================
+===============================================================================================================
+
+Our main task is to perform a bulk protein structure prediction of a small proteome.
+
+Target: Mycoplasmoides genitalium G37
+
+1) Download the proteome from NCBI in GP format or directly from here:
+http://gp2fasta.mlhpc.org/Mycoplasmoides_genitalium_G37.gp
+
+Our file contains 603 proteins, but due to the limitations of the tool (i.e., ESM) we will use in the next step, 
+we are interested only in proteins up to 400aa.
+
+2) Preprocessing the input files
+Create FASTA files containing up to 20 sequences that have only the locus as a UID in the header:
+
+>WP_009885892
+MAKDKKNKVDGTEQSVDLFERTKLEDTQVLNEVELDDIKKITELRKELEHTFEPQTRMQIKREIKEIERKMKRSSR
+>WP_009885728
+MVKRKRKPKLNSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENRNKAVELVDNIVFF
+>WP_014894048
+MKIKKCYIIAVISAFIGFLFYFLSSLIGITDVNNAKTVATVFFVLATLIVVNAIVFWILYLFKKKNVVK
+...
+Note: You can use the script from the previous lab for this.
+
+TASK: Write a simple script that takes a FASTA file, an output_name, max_size, and size as input to produce the proper files:
+
+python3 fasta_splitter.py -i Mycoplasmoides_genitalium_G37.fas -o ./fastas/Mycgen_ -m 400 -s 20
+
+The output is a series of FASTA files such as:
+./fastas/Mycgen_000-019.fas
+./fastas/Mycgen_020-039.fas
+...
+./fastas/Mycgen_420-433.fas
+
+Note:
+- Leading zeros are added dynamically depending on the number of sequences in the input file.
+In this case, we resulted with 433 proteins (after filtering out those longer than 400aa).
+
+3) Predicting protein structure using the ESM API
+
+Running protein prediction tools like AlphaFold or ESM locally is highly resource-demanding; luckily, ESM provides easy access 
+through the web.
+
+ESM: https://github.com/facebookresearch/esm
+GOTO: "Quick start" section and see how the CURL command looks.
+
+As you can see, we can only send one sequence to ESM at a time, up to 400aa long. On the other hand, we have 22 files 
+(from the previous step) containing up to 20 sequences each.
+
+Runtime estimation: In general, the prediction of a single sequence can take up to 30s for sequences close to 400aa.
+
+TASK: Write a simple wrapper that takes a multiple-sequence FASTA file as input and sends the sequences to ESM one by one 
+(include a 5s break between individual ESM calls), then stores the predictions.
+
+python3 predictESM.py ./fastas/Mycgen_000-019.fas
+
+As a result, the program creates the folder 'Mycgen_000-019' and stores results inside, such as:
+./fastas/Mycgen_000-019/WP_009885972_esmfold_v1.pdb
+./fastas/Mycgen_000-019/WP_009885652_esmfold_v1.pdb
+./fastas/Mycgen_000-019/WP_009885673_esmfold_v1.pdb
+...
+
+4) CRONTAB
+In principle, we could send all 433 sequences in one go, but let's assume that for various reasons we cannot, or that 
+the content of the ./fastas/ folder will be updated and we want to automate the process.
+
+For this purpose, we will use Cron, which is a time-based job scheduler:
+https://en.wikipedia.org/wiki/Cron
+
+TASK: Write a script that scans a given folder for FASTA files that have not been processed yet.
+
+python3 scan_fasta4ESM.py [some_path]/fastas/
+
+The scan_fasta4ESM.py script takes only one argument: a path. It checks if the given path exists and contains FASTA files (*.fas).
+Next, for each FASTA file (e.g., fastas/Mycgen_000-019.fas), it checks if a similarly named folder exists. If the folder 
+exists, it means the FASTA file has already been processed and can be skipped. If the folder does not exist, it runs our 
+predictESM.py script on that file.
+
+Important: scan_fasta4ESM.py should run the predictESM.py script at most once per execution (this means scan_fasta4ESM.py 
+needs to be called 22 times).
+
+Now, we can finally take advantage of Cron to run scan_fasta4ESM.py.
+
+TASK: Create a Cron command to run this script every 30 min*
+
+* to avoid sending multiple identical requests to ESM by dozen people in the same time let the timing be connected with the 
+last digit from your Index number e.g. if your Index number is 448136 the command for scan_fasta4ESM.py should be run every
+ hour and day at minute 6 and 36 (30min + 6min offset). 
+
+As a result, you should obtain those 433 predicted structures from ESM in ~11h. 
+
+The next day, perform similar steps for the http://gp2fasta.mlhpc.org/hsp23.gp file (i.e., divide the file into 
+20-sequence FASTA files and place them in [some_path]/fastas/). Cron should process them over the following half-day.
+
+Finally, after ~24h, run the 'cd [some_path]/fastas/; tree -hD > [some_path]/ESM.log' command to verify the results. 
+Additionally, check the predicted structures in a graphical editor (e.g., PyMol, Chimera).
+
+
+Conclusions: In principle, we could get these 433 predictions faster using one large loop, but imagine the ./fastas/ 
+folder is updated at random intervals by another script and/or the API is only available during specific time frames, etc.
+
+Now, we can download new proteome data, run fasta_splitter.py on it, and the rest will be done automatically (e.g., overnight).
+
+===============================================================================================================
+
+Homework: Submit the Python scripts, ESM.log, and the compressed folders [some_path]/fastas/Mycgen_360-379/ 
+and [some_path]/fastas/hsp23_040-059/ containing the predicted structures.
+
+All files should be sent by Monday, 09.03.2026, via email to [email here]
+with the subject: 'ADP26_lab02_hw_Surname_Name' (no email body)
+and the attachment: 'ADP26_lab02_hw_Surname_Name.7z' (avoid Polish characters).
+
+===============================================================================================================
+Finally, for the next week we will need also ESM protein structures from JCVI-syn3.0, thus generate them: 
+
+Synthetic bacterium JCVI-Syn3.0, complete genome 
+https://www.ncbi.nlm.nih.gov/search/all/?term=CP014940.1
+
+This time you can use:
+https://www.mimuw.edu.pl/~lukaskoz/teaching/adp/labs/lab2/CP014940.1.fasta 
+
+READ: 
+https://www.jcvi.org/research/first-minimal-synthetic-bacterial-cell
+https://www.science.org/doi/10.1126/science.aad6253
