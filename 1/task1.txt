@@ -1,0 +1,109 @@
+===============================================================================================================
+=========================================          Data formats      ==========================================
+===============================================================================================================
+
+In today exercise you are asked to make a simple converter between two frequently used bioinformatics formats:
+
+GeneBank format (.gp) -->  Fasta format (.fas)
+
+Go to: http://gp2fasta.mlhpc.org
+
+a) You need some files for testing:
+from https://www.ncbi.nlm.nih.gov/protein/ download some proteins in GenPept format (after making query you can
+download the results via "Send to:" button
+
+b) a task: do CLI version of the tool with similar functionalities i.e. converting the names, extracting species and
+shortening it, etc.
+
+Note: the tool should be able to process multiple records in one gp file
+
+Expected result: gp2fasta.py script that takes as an input (from CLI) *.gp and returns *.fas file.
+
+In this particular exercise do not use bioinformatics libraries like biopython or cogent. Write the whole parser
+using pure python from scratch.
+
+===============================================================================================================
+
+The python script plus some files for testing should be added to the project folder.
+All files should be sent until Monday 02.03.2026 via email to lukaskoz@mimuw.edu.pl
+with the email subject: 'ADP26_lab01_hw_Surname_Name' without email text body
+and with 'ADP26_lab01_hw_Surname_Name.7z' (without Polish letters) attachment containing the project.
+
+===============================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===============================================================================================================
+						EXTRA TASK 
+===============================================================================================================
+For HPC part that we will do in few weeks we need to get acces to Entropy cluster:
+
+Go to and register:
+https://entropy.mimuw.edu.pl/register/
+
+GPU types: Titan V, Titan X, RTX 2080 Ti
+Required GPUs: 4
+Estimated enqueued job time in days: 4 hours
+Comment: Access to Entropy for ADP classes
+Preferred login: see section below
+
+
+DOCUMENTATION:
+https://entropy-doc.mimuw.edu.pl
+
+Please review the "Time limit" section of the documentation.
+Properly estimating and setting jobs time limit ("--time" flag)
+should improve overall scheduling efficiency.
+https://entropy-doc.mimuw.edu.pl/submittingjobs.html#time-limit
+
+The "GPUMinutes" parameter is the limit of total computation time
+set for your account. After depleting this resource, running new
+jobs won't be possible.
+https://entropy-doc.mimuw.edu.pl/queuesresources.html#gpuminutes
+
+--------------------------------------------------------------------------------------------------------------
+You will need to provide generate SSH keys and state public SSH key URL
+--------------------------------------------------------------------------------------------------------------
+For instructions how to generate the SSH key see for instance:
+- https://www.ssh.com/academy/ssh/keygen
+- https://cloud.ibm.com/docs/ssh-keys?topic=ssh-keys-generating-and-using-ssh-keys-for-remote-host-authentication
+- "Generate your SSH keys" section from https://docs.lumi-supercomputer.eu/firststeps/SSH-keys/
+- https://docs.acquia.com/acquia-cloud-platform/manage-apps/command-line/ssh/getting-started/generate
+	
+Type command: ssh-keygen -t rsa -b 4096
+The key is stored usually in /home/username/.ssh/
+id_rsa.pub - public key (this the file you are looking for)
+id_rsa     - private key (never show/send it to anyone) 
+
+If you work from 'student' then you place the public key file to ~/public_html/ directory
+and cutomize URL https://students.mimuw.edu.pl/~username/username.keys
+ 
+e.g. https://students.mimuw.edu.pl/~ag2232823/id_rsa.pub (the file is id_rsa.pub and the user is ag2232823)
+     https://duch.mimuw.edu.pl/~lukaskoz/lukaskoz.keys   (the file is lukaskoz.keys and the user is lukaskoz)
+     etc.
+ 
+After obtaining the email that the account is created you log in by typing (from student)
+ssh ag2232823@entropy.mimuw.edu.pl (adjust as needed) - NO PASSWORD NEEDED
+
+===============================================================================================================
