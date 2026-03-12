@@ -1,0 +1,236 @@
+gtalign 0.19.00                            Thu Mar 12 18:59:30 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (67 residues):
+data/Mycgen/WP_009885728_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ Legend:
+TM-score (Refn./Query), Reference/Query length-normalized TM-score
+2TM-score, secondary TM-score excluding unmatched helices
+d0 (Refn./Query), Normalizing inter-residue distance d0 for Reference/Query
+RMSD, Root-mean-square deviation (A); Chn, Chain; (M), Model
++, pairs of aligned residues within a distance of 5 A
+Secondary structure: h, Helix; e, Strand; t, Turn
+
+
+                             Query_length-normalized_TM-score| RMSD|Reference_alignment_boundaries|
+                  Reference_length-normalized_TM-score|    Query_alignment_boundaries|
+   No.|                   Reference_description|        #Aligned_residues|             Reference_length|
+
+     1 ...14940/KAM3227673_esmfold_v1.pdb Chn:A 0.1864 0.6028  1.43    50    11-67        4-53      250
+     2 ...14940/KAM3241173_esmfold_v1.pdb Chn:A 0.1665 0.5818  2.45    47     7-59       26-72      264
+     3 ...P014940/KOM46731_esmfold_v1.pdb Chn:A 0.1616 0.5649  2.52    51     4-62      224-276     276
+     4 ...P014940/AXP09967_esmfold_v1.pdb Chn:A 0.2491 0.5565  2.28    46     6-52       94-144     163
+     5 ...P014940/XYH50204_esmfold_v1.pdb Chn:A 0.2088 0.5300  2.63    47     7-55       27-145     192
+     6 ...P014940/BAD12047_esmfold_v1.pdb Chn:A 0.4174 0.5276  2.35    46     7-54       18-65       87
+     7 ...14940/KAF8703232_esmfold_v1.pdb Chn:A 0.1779 0.4831  1.77    43     9-64        1-43      216
+     8 ...P014940/KHG06452_esmfold_v1.pdb Chn:A 0.1952 0.4687  1.52    39     7-46      144-183     183
+     9 ...P014940/KHG05494_esmfold_v1.pdb Chn:A 0.1952 0.4687  1.52    39     7-46      144-183     183
+
+
+
+1.           
+>data/CP014940/KAM3227673_esmfold_v1.pdb Chn:A
+  Length: Refn. = 250, Query = 67
+
+ TM-score (Refn./Query) = 0.18636 / 0.60276, d0 (Refn./Query) = 5.85 / 2.83,  RMSD = 1.43 A
+ Identities = 3/57 (5%), Matched = 49/57 (85%), Gaps = 7/57 (12%)
+
+struct        thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  
+Query:    11 NSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENRNKAVELVDNIVFF 67   
+              S+  ++  +++   ++++++++++++++++++++++++++++++KA++++++++++
+Refn.:     4 VSV--CS--SRA---TKEQSDEEHAATHRAEFVTGHMALARLCLKKALAGRAAAMAR 53   
+struct       eee  ee        hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.892424  -0.133796  -0.430904         -6.028994
+   -0.311506   0.873595   0.373893          8.671052
+    0.326410   0.467900  -0.821295        -21.294107
+
+
+
+2.           
+>data/CP014940/KAM3241173_esmfold_v1.pdb Chn:A
+  Length: Refn. = 264, Query = 67
+
+ TM-score (Refn./Query) = 0.16655 / 0.58184, d0 (Refn./Query) = 6.00 / 2.83,  RMSD = 2.45 A
+ Identities = 5/53 (9%), Matched = 45/53 (84%), Gaps = 6/53 (11%)
+
+struct            thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     7 KPKLNSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENRNKAVE 59   
+             K++ ++++++T+++++++++M++++++L+++L+++++++++  ++  ++   +
+Refn.:    26 KEQSDEEHAATHRAEFVTGHMALARLCLKKALAGRAAAMAR--PA--SA--SS 72   
+struct             hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh              
+
+ Rotation [3,3] and translation [3,1] for Query:
+    0.634554  -0.530385  -0.562168         19.401804
+   -0.355264  -0.846137   0.397291         -6.487884
+   -0.686388  -0.052385  -0.725347         -7.609655
+
+
+
+3.           
+>data/CP014940/KOM46731_esmfold_v1.pdb Chn:A
+  Length: Refn. = 276, Query = 67
+
+ TM-score (Refn./Query) = 0.16162 / 0.56490, d0 (Refn./Query) = 6.12 / 2.83,  RMSD = 2.52 A
+ Identities = 6/61 (9%), Matched = 45/61 (73%), Gaps = 10/61 (16%)
+
+struct                 thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     4 RK-RKPKL-NSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENRNKAVELVD 62   
+              +  ++++ +++++++I++V+++++++++++++++++++S+Q ++  +++E  +   e   
+Refn.:   224 GNKYGNLIKRPKILMNIGVVILLVMVLGLYVKNAFKSSSSSQ-GG--PEYE--K-FKE--F 276  
+struct           h  h   hhhhhhhhhhhhhhhhhhhhhhhhhhhhh                     
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.851905  -0.492086   0.179188         21.996506
+    0.089415  -0.473810  -0.876076          1.365684
+    0.516006  -0.730312   0.447641        -20.007250
+
+
+
+4.           
+>data/CP014940/AXP09967_esmfold_v1.pdb Chn:A
+  Length: Refn. = 163, Query = 67
+
+ TM-score (Refn./Query) = 0.24907 / 0.55647, d0 (Refn./Query) = 4.76 / 2.83,  RMSD = 2.28 A
+ Identities = 4/52 (7%), Matched = 42/52 (80%), Gaps = 6/52 (11%)
+
+struct                 thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhh
+Query:     6 RK----PKLNSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLA-TALVE 52   
+              +      ++++++++++++++++SM++F+++++++++++++++++ +A+  
+Refn.:    94 IEQGSLRTFGGHTTVIAAFFSAFVSMLMFCVWWYFGKVYCTAFYYVKGAR-G 144  
+struct       hhtt      thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhht     
+
+ Rotation [3,3] and translation [3,1] for Query:
+    0.753252  -0.504696  -0.421773         11.254190
+   -0.618451  -0.761759  -0.192980          7.261571
+   -0.223894   0.406209  -0.885927          7.192867
+
+
+
+5.           
+>data/CP014940/XYH50204_esmfold_v1.pdb Chn:A
+  Length: Refn. = 192, Query = 67
+
+ TM-score (Refn./Query) = 0.20880 / 0.53000, d0 (Refn./Query) = 5.16 / 2.83,  RMSD = 2.63 A
+ Identities = 2/121 (1%), Matched = 41/121 (33%), Gaps = 74/121 (61%)
+
+struct            thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh   hhh                                   
+Query:     7 KPKLNSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSN---LAT----------------------------------- 48   
+               +++++++++++++++++++I+++++++++L+++++      ++                                   
+Refn.:    27 DMLITPTERAFLHSLSNTGNYIRSQLAHLEELEKTSHI-GKDGFRVCLDVKNFQPNEISVKTENNFIFVHAKHDEKKDHH 105  
+struct            thhhhhhhhhhhhhhhhhhhhhhhhhhhhh ee  tt  eeeee     th  eeee ht eeeeeee  ee tt
+
+struct                                         hhhhhhh
+Query:    49 ----------------------------------ALVENRN 55   
+                                               +++  + 
+Refn.:   106 GHISREFNRRYELPKGFKIEDVASTLSSDGILSIKCP-PAP 145  
+struct         eeeeeeeeeee t   th  eeee tt  eeeee     
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.602720  -0.466327  -0.647508         -8.185403
+    0.750068  -0.054227  -0.659133        -10.768943
+    0.272259  -0.882949   0.382461          4.064441
+
+
+
+6.           
+>data/CP014940/BAD12047_esmfold_v1.pdb Chn:A
+  Length: Refn. = 87, Query = 67
+
+ TM-score (Refn./Query) = 0.41737 / 0.52757, d0 (Refn./Query) = 3.36 / 2.83,  RMSD = 2.35 A
+ Identities = 1/50 (2%), Matched = 42/50 (84%), Gaps = 4/50 (8%)
+
+struct              thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     7 KP-KL-NSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENR 54   
+             +   +  + +++++++++++++++++++++++++++++++++++A +++ 
+Refn.:    18 AEIDRMVR-EAEQYADEDEKHRQRIAARNQLEAYVFNVKQSTQDA-GDKI 65   
+struct       hhhhhhhh hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh   h t
+
+ Rotation [3,3] and translation [3,1] for Query:
+    0.051372  -0.940797   0.335053         -3.854199
+   -0.936575  -0.161850  -0.310857          2.371960
+    0.346682  -0.297833  -0.889442          4.848594
+
+
+
+7.           
+>data/CP014940/KAF8703232_esmfold_v1.pdb Chn:A
+  Length: Refn. = 216, Query = 67
+
+ TM-score (Refn./Query) = 0.17793 / 0.48310, d0 (Refn./Query) = 5.46 / 2.83,  RMSD = 1.77 A
+ Identities = 2/56 (3%), Matched = 41/56 (73%), Gaps = 13/56 (23%)
+
+struct          thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     9 KLNSRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNLATALVENRNKAVELVDNI 64   
+             ++++R+++++++++++++++++++++  + + +++  ++  ++  R+  ++  ++ 
+Refn.:     1 MMSKRAASAFACLAVMMAAAAAVADG--A-L-LPW-FGD--GR--RG--RD--EAS 43   
+struct          thhhhhhhhhhhhhhhhhhhh                      e  ee  eee
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.034931   0.966896   0.252767        -10.735800
+    0.687620   0.206791  -0.696000        -30.628336
+   -0.725230   0.149496  -0.672081          6.249184
+
+
+
+8.           
+>data/CP014940/KHG06452_esmfold_v1.pdb Chn:A
+  Length: Refn. = 183, Query = 67
+
+ TM-score (Refn./Query) = 0.19521 / 0.46875, d0 (Refn./Query) = 5.04 / 2.83,  RMSD = 1.52 A
+ Identities = 4/41 (9%), Matched = 39/41 (95%), Gaps = 2/41 (4%)
+
+struct             thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     7 KPKLN-SRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNL 46   
+             +++++ +++++++++VL+++S+I++++++++++++++++ +
+Refn.:   144 PTYRINCCIGRFLSSVLWGSSFIGGFFGKAEVKNGEEER-M 183  
+struct          hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh   
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.581943  -0.804073   0.121694         -3.311001
+   -0.758313   0.482477  -0.438380         -7.143436
+    0.293775  -0.347394  -0.890513         15.571748
+
+
+
+9.           
+>data/CP014940/KHG05494_esmfold_v1.pdb Chn:A
+  Length: Refn. = 183, Query = 67
+
+ TM-score (Refn./Query) = 0.19521 / 0.46875, d0 (Refn./Query) = 5.04 / 2.83,  RMSD = 1.52 A
+ Identities = 4/41 (9%), Matched = 39/41 (95%), Gaps = 2/41 (4%)
+
+struct             thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Query:     7 KPKLN-SRNILTIQIVLTIFSMIFFLTLLSLILFLSLQSNL 46   
+             +++++ +++++++++VL+++S+I++++++++++++++++ +
+Refn.:   144 PTYRINCCIGRFLSSVLWGSSFIGGFFGKAEVKNGEEER-M 183  
+struct          hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh   
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.581943  -0.804073   0.121694         -3.311001
+   -0.758313   0.482477  -0.438380         -7.143436
+    0.293775  -0.347394  -0.890513         15.571748
+
+
+
+Query length: 67
+Total length of reference structures: 44523
+Search space: 2983041
+Time elapsed from process initiation: 499.914337 sec
+Query batch execution time: 1.410868 sec
+Query batch size: 2
+Device: "n/a"
+

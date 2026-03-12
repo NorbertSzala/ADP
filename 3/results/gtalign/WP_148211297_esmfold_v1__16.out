@@ -1,0 +1,107 @@
+gtalign 0.19.00                            Thu Mar 12 18:51:43 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (392 residues):
+data/Mycgen/WP_148211297_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ Legend:
+TM-score (Refn./Query), Reference/Query length-normalized TM-score
+2TM-score, secondary TM-score excluding unmatched helices
+d0 (Refn./Query), Normalizing inter-residue distance d0 for Reference/Query
+RMSD, Root-mean-square deviation (A); Chn, Chain; (M), Model
++, pairs of aligned residues within a distance of 5 A
+Secondary structure: h, Helix; e, Strand; t, Turn
+
+
+                             Query_length-normalized_TM-score| RMSD|Reference_alignment_boundaries|
+                  Reference_length-normalized_TM-score|    Query_alignment_boundaries|
+   No.|                   Reference_description|        #Aligned_residues|             Reference_length|
+
+     1 ...P014940/XAJ73652_esmfold_v1.pdb Chn:A 0.5139 0.0957  2.48    41    83-289       5-46       58
+     2 ...P014940/BAD12047_esmfold_v1.pdb Chn:A 0.4791 0.1510  3.77    72    53-240      13-87       87
+
+
+
+1.           
+>data/CP014940/XAJ73652_esmfold_v1.pdb Chn:A
+  Length: Refn. = 58, Query = 392
+
+ TM-score (Refn./Query) = 0.51393 / 0.09567, d0 (Refn./Query) = 2.54 / 7.16,  RMSD = 2.48 A
+ Identities = 3/208 (1%), Matched = 37/208 (17%), Gaps = 167/208 (80%)
+
+struct       hhhhhhhhhhhhhhhhhhhhhhhhhhh    thhhhhhhhhhhhht  thhhhhhhhhhhhht     ee t  t   th
+Query:    83 PNTLYVVLISFLIGSLLGIFLGMVSGLNRGKFLDAAINVLVVLFVSIPSFVVGLGLLKLAGFLNLPPRFINFDDAFFSFD 162  
+             P  ++                                                                           
+Refn.:     5 P--YKEF------------------------------------------------------------------------- 9    
+struct       t  hhhh                                                                         
+
+struct       hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  thhhhhhht   thhhhhhhhhhhhhhh hhhhhhhhhhhhhhhh
+Query:   163 RFLLASIIPILSLVFYSSAAFTYRIRNEVVEVMNQDYIKTAKSKGLGMFAVARYHIFRNSIIPSIPLFVFGISGAFSGGF 242  
+                                                                                           g 
+Refn.:    10 ------------------------------------------------------------------------------G- 10   
+struct                                                                                     h 
+
+struct       hhhhht    thhhhhhhhht    hhhhhhhhhhhhhhhhhhhhhhh
+Query:   243 IIESLFGVQGVSRILIDSVQVN-ETNMVMFNILFIQGIPLLASVFIEF 289  
+                     ++V++++++  + + ++++++++++++++++++++++  +
+Refn.:    11 --------ATVELLSFL--PSDFFPSVRDLLDTASALYREALESP--E 46   
+struct               hhhhhhh     thh  hhhhhhhhhhhhhhhhhh    h
+
+ Rotation [3,3] and translation [3,1] for Query:
+    0.072673   0.866351  -0.494119         -3.874376
+   -0.504476   0.459309   0.731122          9.813833
+    0.860362   0.196139   0.470433          5.601954
+
+
+
+2.           
+>data/CP014940/BAD12047_esmfold_v1.pdb Chn:A
+  Length: Refn. = 87, Query = 392
+
+ TM-score (Refn./Query) = 0.47906 / 0.15102, d0 (Refn./Query) = 3.36 / 7.16,  RMSD = 3.77 A
+ Identities = 3/191 (1%), Matched = 60/191 (31%), Gaps = 119/191 (62%)
+
+struct       hhhht  thht   th     thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh      t hhhhhhhhhhhhht 
+Query:    53 AKLFSFQADALGIYYANPNQTIGEIVFARVPNTLYVVLISFLIGSLLGIFLGMVSGLNRG--KF-LDAAINVLVVLFVSI 129  
+             +   + qa++          +++E+++++++++++++++++++++++++ +++++++++    + ++++++++++++++ 
+Refn.:    13 G--RLSQAEIDRM------VREAEQYADEDEKHRQRIAARNQLEAYVFN-VKQSTQDAGDKIPKSDKDRVMEKCEETIK- 82   
+struct             thhhhhh      hhhhhhhhhhhhhhhhhhhhhhhhhhhhhh hhhhhhh  h t thhhhhhhhhhhhhhh 
+
+struct        thhhhhhhhhhhhht     ee t  t   thhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  thhhhhhht   
+Query:   130 PSFVVGLGLLKLAGFLNLPPRFINFDDAFFSFDRFLLASIIPILSLVFYSSAAFTYRIRNEVVEVMNQDYIKTAKSKGLG 209  
+              +                                              +                               
+Refn.:    83 -W----------------------------------------------L------------------------------- 84   
+struct        h                                              h                               
+
+struct       thhhhhhhhhhhhhhh hhhhhhhhhhhhhh
+Query:   210 MFAVARYHIFRNSIIPSIPLFVFGISGAFSG 240  
+                                           +
+Refn.:    85 --------------------------D--NN 87   
+struct                                 h    
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.045165  -0.924897   0.377526          0.194732
+    0.856249   0.158825   0.491541          0.830373
+   -0.514585   0.345457   0.784768         -2.161446
+
+
+
+Query length: 392
+Total length of reference structures: 44523
+Search space: 17453016
+Time elapsed from process initiation: 33.415475 sec
+Query batch execution time: 4.354700 sec
+Query batch size: 2
+Device: "n/a"
+

@@ -1,0 +1,2142 @@
+# BLASTP 2.17.0+
+# Query: WP_009885972
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885972	WP_020862910	34.286	280	166	5	3	264	4	283	2.98e-50	160
+# BLASTP 2.17.0+
+# Query: WP_009885652
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885673
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_318023848
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943774
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943749
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_234943749	WP_020863002	40.000	70	39	2	1	69	257	324	2.72e-11	50.4
+# BLASTP 2.17.0+
+# Query: WP_010869435
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869435	WP_020862685	35.814	215	131	2	5	214	6	218	8.17e-43	137
+# BLASTP 2.17.0+
+# Query: WP_009885971
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869490
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869490	WP_020862419	33.460	263	153	6	11	257	8	264	1.34e-25	95.1
+# BLASTP 2.17.0+
+# Query: WP_009885760
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885760	WP_020862815	43.366	309	164	6	8	309	4	308	5.92e-65	200
+# BLASTP 2.17.0+
+# Query: WP_010869308
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894004
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869492
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_010869492	WP_020862438	41.772	237	133	3	50	283	109	343	1.76e-61	191
+WP_010869492	WP_011387091	32.547	212	132	3	60	266	9	214	2.37e-34	121
+WP_010869492	WP_020862931	30.531	226	140	5	59	269	7	230	4.56e-20	80.5
+WP_010869492	WP_020862898	27.885	208	136	8	72	268	41	245	2.82e-19	79.0
+WP_010869492	WP_013729591	31.111	225	128	9	38	248	12	223	9.38e-16	68.6
+# BLASTP 2.17.0+
+# Query: WP_010869419
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_010869419	WP_020862898	32.932	249	164	2	100	346	51	298	1.17e-39	136
+WP_010869419	WP_011387091	29.412	238	146	9	81	309	11	235	8.63e-17	73.6
+WP_010869419	WP_020862438	27.225	191	126	6	104	290	145	326	2.46e-14	66.2
+WP_010869419	WP_013729591	25.943	212	149	5	97	302	45	254	9.26e-14	63.5
+WP_010869419	WP_020862931	24.138	232	160	7	77	298	10	235	7.31e-11	54.7
+# BLASTP 2.17.0+
+# Query: WP_268741290
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869409
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_010869409	WP_020862931	33.884	242	154	4	6	242	4	244	1.05e-36	123
+WP_010869409	WP_011387091	27.391	230	146	5	1	225	1	214	3.54e-22	87.0
+WP_010869409	WP_020862898	26.201	229	151	6	9	226	23	244	3.91e-18	75.1
+WP_010869409	WP_020862438	25.837	209	139	4	18	222	127	323	9.44e-17	71.6
+WP_010869409	WP_013729591	31.401	207	117	9	22	217	38	230	9.74e-16	67.8
+# BLASTP 2.17.0+
+# Query: WP_009885806
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885935
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885935	WP_020862809	30.000	140	79	5	49	186	57	179	3.14e-12	57.4
+# BLASTP 2.17.0+
+# Query: WP_009885596
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_036446349
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_036446349	WP_011387091	31.579	133	73	4	2	133	57	172	2.36e-13	59.3
+# BLASTP 2.17.0+
+# Query: WP_318023720
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_268741291
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_268741291	WP_020862931	37.313	134	73	2	8	141	122	244	1.48e-21	80.5
+WP_268741291	WP_011387091	30.894	123	80	1	22	144	112	229	1.21e-14	62.8
+WP_268741291	WP_020862438	32.673	101	65	2	29	129	232	329	1.22e-14	62.8
+WP_268741291	WP_020862898	30.894	123	77	2	11	125	122	244	2.74e-13	58.5
+WP_268741291	WP_013729591	42.647	68	37	1	46	113	166	231	5.19e-13	57.8
+# BLASTP 2.17.0+
+# Query: WP_009885822
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869449
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_408634318
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885594
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885621
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_268741289
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885748
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885735
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885620
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885620	WP_020862991	30.526	190	121	5	14	201	1	181	8.07e-17	68.6
+# BLASTP 2.17.0+
+# Query: WP_268741286
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943776
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885623
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885623	WP_013729896	33.333	291	168	6	1	279	1	277	2.24e-48	155
+# BLASTP 2.17.0+
+# Query: WP_417652110
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943777
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943773
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_234943773	WP_011166362	34.959	123	62	4	59	164	18	139	1.23e-11	57.0
+# BLASTP 2.17.0+
+# Query: WP_234943767
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943748
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_234943748	WP_020863002	34.254	181	108	6	10	187	5	177	3.82e-22	86.3
+# BLASTP 2.17.0+
+# Query: WP_234943740
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_029329858
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869472
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869407
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885999
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885990
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885987
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885949
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885939
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885915
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885914
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885812
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885786
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885774
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885691
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885689
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885595
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885572
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869425
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869363
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869348
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885876
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885934
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885991
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885811
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_029329864
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869420
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885973
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885884
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869483
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869304
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869304	WP_020862572	24.825	286	187	7	4	279	59	326	1.77e-21	85.5
+# BLASTP 2.17.0+
+# Query: WP_009885782
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885782	WP_020862756	27.933	179	109	4	2	162	1	177	7.15e-14	59.7
+# BLASTP 2.17.0+
+# Query: WP_009885636
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885636	WP_011387091	34.615	104	68	0	26	129	135	238	3.21e-16	69.3
+WP_009885636	WP_020862438	40.449	89	48	2	6	92	231	316	8.92e-16	68.2
+WP_009885636	WP_013729591	34.951	103	65	1	27	129	166	266	2.72e-15	66.2
+WP_009885636	WP_020862898	32.653	98	66	0	20	117	158	255	2.66e-14	63.5
+WP_009885636	WP_020862931	38.636	88	51	2	21	106	142	228	8.87e-11	53.1
+# BLASTP 2.17.0+
+# Query: WP_009885597
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885597	WP_020862649	35.233	193	95	6	192	381	177	342	3.97e-22	89.7
+# BLASTP 2.17.0+
+# Query: WP_009885583
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885583	WP_011166362	68.448	393	123	1	1	392	1	393	0.0	570
+# BLASTP 2.17.0+
+# Query: WP_009885561
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885561	WP_020862826	36.522	115	63	3	4	116	7	113	5.60e-12	58.5
+# BLASTP 2.17.0+
+# Query: WP_408634320
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_408634320	WP_011387096	40.331	181	107	1	32	212	3	182	1.39e-41	136
+# BLASTP 2.17.0+
+# Query: WP_408634319
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_408634319	ADH22165	64.516	155	55	0	2	156	1	155	3.75e-74	213
+# BLASTP 2.17.0+
+# Query: WP_234943788
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_234943788	WP_020862509	46.154	104	56	0	1	104	1	104	8.96e-25	89.7
+# BLASTP 2.17.0+
+# Query: WP_010869439
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885967
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885962
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_009885962	WP_020862885	26.132	287	194	8	3	288	5	274	1.85e-25	95.9
+WP_009885962	WP_020862886	24.915	293	189	12	3	284	2	274	1.30e-12	59.7
+# BLASTP 2.17.0+
+# Query: WP_009885904
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885894
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885741
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885741	WP_020862827	31.967	122	75	4	95	212	83	200	2.37e-12	57.0
+# BLASTP 2.17.0+
+# Query: WP_009885601
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885566
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885566	WP_020862438	39.303	201	121	1	101	301	127	326	5.08e-53	171
+WP_009885566	WP_020862898	32.547	212	131	6	101	303	37	245	2.46e-29	107
+WP_009885566	WP_020862931	35.681	213	124	6	104	305	21	231	2.65e-25	95.1
+WP_009885566	WP_011387091	31.863	204	124	4	104	301	20	214	5.65e-25	96.3
+WP_009885566	WP_013729591	33.493	209	125	7	105	302	38	243	4.62e-20	81.3
+# BLASTP 2.17.0+
+# Query: WP_010869344
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_010869344	WP_020862933	26.562	256	162	9	1	245	1	241	9.79e-15	65.9
+WP_010869344	WP_020862941	28.309	272	169	10	2	263	6	261	1.25e-13	62.8
+# BLASTP 2.17.0+
+# Query: WP_010869310
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869310	WP_020862509	33.040	227	138	4	4	226	8	224	4.04e-31	112
+# BLASTP 2.17.0+
+# Query: WP_010869293
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869293	WP_020862509	29.373	303	196	6	1	296	1	292	1.37e-30	110
+# BLASTP 2.17.0+
+# Query: WP_009885896
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+WP_009885896	WP_020862471	27.336	289	168	14	1	268	1	268	4.21e-16	69.7
+WP_009885896	WP_020862933	25.362	276	179	9	6	268	5	266	1.15e-15	68.6
+WP_009885896	WP_020862476	23.469	294	184	9	3	276	5	277	1.28e-13	62.4
+WP_009885896	WP_020862941	22.064	281	203	5	2	276	5	275	1.03e-12	59.7
+# BLASTP 2.17.0+
+# Query: WP_009885882
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885882	WP_011387091	29.614	233	142	9	1	222	5	226	5.30e-22	87.0
+WP_009885882	WP_020862898	27.018	285	182	8	6	270	25	303	3.51e-21	84.0
+WP_009885882	WP_020862931	29.665	209	130	4	1	194	4	210	8.31e-18	73.9
+WP_009885882	WP_020862438	26.000	200	134	4	18	208	130	324	8.43e-15	66.2
+WP_009885882	WP_013729591	27.155	232	138	8	2	207	21	247	4.17e-13	60.8
+# BLASTP 2.17.0+
+# Query: WP_009885799
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885773
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885765
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885706
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885697
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885688
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885688	WP_020862751	54.545	110	50	0	8	117	2	111	2.11e-40	125
+# BLASTP 2.17.0+
+# Query: WP_009885667
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885667	WP_020863089	28.614	339	186	15	7	332	16	311	3.49e-23	92.8
+# BLASTP 2.17.0+
+# Query: WP_009885584
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885584	WP_020862885	24.573	293	193	9	1	286	4	275	4.13e-12	58.2
+# BLASTP 2.17.0+
+# Query: WP_009885563
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943779
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_318023719
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869455
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869455	WP_020862531	31.699	306	200	4	15	317	13	312	9.28e-48	156
+# BLASTP 2.17.0+
+# Query: WP_010869432
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869432	WP_013729809	31.050	219	142	6	2	213	3	219	5.46e-27	97.4
+# BLASTP 2.17.0+
+# Query: WP_010869334
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886005
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009886005	WP_020862531	32.803	314	191	9	10	315	11	312	4.90e-44	147
+# BLASTP 2.17.0+
+# Query: WP_009885957
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885957	WP_013729809	31.050	219	142	6	2	213	3	219	4.71e-27	97.8
+# BLASTP 2.17.0+
+# Query: WP_009885936
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885936	WP_020862531	31.373	306	201	4	15	317	13	312	2.14e-46	153
+# BLASTP 2.17.0+
+# Query: WP_009885800
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869418
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869418	WP_020862897	26.235	324	190	8	3	288	11	323	8.29e-26	98.6
+# BLASTP 2.17.0+
+# Query: WP_010869313
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869454
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_010869454	WP_020862809	28.516	256	136	11	49	291	57	278	2.28e-16	71.6
+WP_010869454	WP_020862916	25.649	308	182	11	6	295	3	281	4.07e-15	67.8
+# BLASTP 2.17.0+
+# Query: WP_010869347
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869294
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869294	WP_011166635	43.889	180	99	2	9	187	5	183	1.31e-48	150
+# BLASTP 2.17.0+
+# Query: WP_009885942
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885942	WP_020863052	28.276	145	98	3	9	150	27	168	4.32e-17	69.7
+# BLASTP 2.17.0+
+# Query: WP_010869327
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869302
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869302	WP_020862918	52.439	82	38	1	1	82	1	81	2.43e-28	91.7
+# BLASTP 2.17.0+
+# Query: WP_009885828
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885704
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885704	WP_020862918	52.439	82	38	1	1	82	1	81	2.09e-28	92.0
+# BLASTP 2.17.0+
+# Query: WP_010869481
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869481	WP_020862823	37.500	160	98	2	25	183	24	182	5.15e-29	99.8
+# BLASTP 2.17.0+
+# Query: WP_009885899
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885598
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885598	WP_020862823	37.795	127	77	2	25	150	24	149	1.35e-21	79.7
+# BLASTP 2.17.0+
+# Query: WP_009886003
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885985
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885722
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885722	WP_020862418	37.059	170	102	4	8	173	3	171	1.66e-28	98.2
+# BLASTP 2.17.0+
+# Query: WP_009885642
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885642	WP_017698083	36.757	185	115	1	5	187	2	186	5.34e-39	125
+# BLASTP 2.17.0+
+# Query: WP_010869319
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885933
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885933	WP_017698021	25.000	228	154	5	152	372	116	333	1.33e-12	60.8
+# BLASTP 2.17.0+
+# Query: WP_009885968
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885770
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885746
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_009885746	WP_020862809	34.564	298	180	5	9	295	11	304	9.44e-51	164
+WP_009885746	WP_020862916	30.483	269	158	10	28	280	31	286	4.11e-24	93.2
+# BLASTP 2.17.0+
+# Query: WP_010869433
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885986
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885986	WP_013729183	41.618	173	100	1	1	172	1	173	3.17e-41	132
+# BLASTP 2.17.0+
+# Query: WP_009885888
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885740
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886002
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_041361276
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885660
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885660	WP_020863007	46.823	299	145	5	15	307	8	298	4.25e-88	260
+# BLASTP 2.17.0+
+# Query: WP_010869450
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869450	WP_020862719	32.323	297	197	3	2	295	5	300	1.99e-43	145
+# BLASTP 2.17.0+
+# Query: WP_009885841
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885841	WP_011166907	46.729	214	112	2	1	213	1	213	2.78e-62	189
+# BLASTP 2.17.0+
+# Query: WP_009885604
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885614
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885842
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885842	WP_011387540	63.504	137	50	0	1	137	1	137	1.22e-62	182
+# BLASTP 2.17.0+
+# Query: WP_010869386
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869386	WP_020862979	64.706	153	54	0	1	153	1	153	4.49e-75	214
+# BLASTP 2.17.0+
+# Query: WP_010869361
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869361	WP_011166895	44.000	150	78	4	1	149	1	145	4.36e-34	110
+# BLASTP 2.17.0+
+# Query: WP_010869343
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869343	WP_020862470	37.079	89	55	1	2	90	4	91	3.89e-19	69.3
+# BLASTP 2.17.0+
+# Query: WP_010869333
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869326
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869326	WP_008362393	71.014	138	40	0	1	138	1	138	5.34e-69	198
+# BLASTP 2.17.0+
+# Query: WP_009885926
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885926	WP_013729687	38.565	223	134	3	12	233	5	225	8.95e-46	149
+# BLASTP 2.17.0+
+# Query: WP_009885889
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885889	WP_011166475	50.244	205	101	1	2	205	3	207	1.75e-74	217
+# BLASTP 2.17.0+
+# Query: WP_009885854
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885854	WP_020862901	55.333	150	67	0	55	204	45	194	2.19e-48	152
+# BLASTP 2.17.0+
+# Query: WP_009885845
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885845	WP_011166903	54.098	122	56	0	1	122	1	122	7.78e-50	148
+# BLASTP 2.17.0+
+# Query: WP_009885840
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885840	WP_008362527	45.872	109	59	0	1	109	1	109	1.51e-24	85.1
+# BLASTP 2.17.0+
+# Query: WP_009885839
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885839	WP_011166909	60.920	87	31	1	1	87	1	84	5.97e-35	108
+# BLASTP 2.17.0+
+# Query: WP_009885820
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885820	WP_008362864	45.455	55	29	1	1	54	1	55	7.18e-11	45.4
+# BLASTP 2.17.0+
+# Query: WP_009885766
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885766	WP_013729882	81.065	338	64	0	3	340	2	339	0.0	592
+# BLASTP 2.17.0+
+# Query: WP_009885924
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885808
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885877
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869309
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885857
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_009885857	WP_017698332	32.129	249	165	2	1	247	1	247	1.37e-45	146
+WP_009885857	WP_020862650	29.268	205	130	7	4	205	130	322	6.17e-16	69.3
+# BLASTP 2.17.0+
+# Query: WP_234943763
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943761
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894390
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869411
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869402
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869402	WP_020862735	40.268	149	83	3	16	163	11	154	1.75e-31	105
+# BLASTP 2.17.0+
+# Query: WP_010869400
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869393
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+WP_010869393	WP_020863021	42.857	175	94	4	66	238	64	234	1.78e-39	130
+WP_010869393	WP_020862761	29.932	147	101	2	97	242	108	253	2.21e-15	66.6
+# BLASTP 2.17.0+
+# Query: WP_010869360
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869360	WP_017698330	46.961	181	92	3	1	180	1	178	1.22e-47	147
+# BLASTP 2.17.0+
+# Query: WP_010869335
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869335	WP_013729383	31.633	294	169	13	7	276	3	288	1.28e-34	120
+# BLASTP 2.17.0+
+# Query: WP_009885961
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885920
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885917
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885917	WP_011166343	52.778	288	135	1	2	288	9	296	9.82e-107	306
+# BLASTP 2.17.0+
+# Query: WP_009885916
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885916	WP_017698114	54.645	366	161	4	2	366	3	364	1.18e-134	382
+# BLASTP 2.17.0+
+# Query: WP_009885895
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885835
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885835	WP_013729797	45.161	93	51	0	10	102	6	98	9.28e-29	94.0
+# BLASTP 2.17.0+
+# Query: WP_009885819
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885819	WP_011167151	44.538	119	63	3	6	122	5	122	8.23e-23	80.1
+# BLASTP 2.17.0+
+# Query: WP_009885814
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885814	WP_020862594	46.954	394	193	8	6	387	2	391	1.18e-109	321
+# BLASTP 2.17.0+
+# Query: WP_009885749
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885738
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885719
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885709
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885709	WP_020862746	44.063	379	191	10	13	378	10	380	1.70e-101	299
+# BLASTP 2.17.0+
+# Query: WP_009885608
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885608	WP_013729462	37.209	86	51	1	3	85	2	87	4.90e-15	57.8
+# BLASTP 2.17.0+
+# Query: WP_009885606
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885606	WP_008363963	50.000	64	32	0	1	64	1	64	1.35e-19	67.8
+# BLASTP 2.17.0+
+# Query: WP_193328795
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_193328795	WP_020863053	31.905	210	115	4	22	222	7	197	6.42e-27	96.3
+# BLASTP 2.17.0+
+# Query: WP_010869476
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869476	WP_017698340	39.726	146	86	1	1	146	1	144	5.62e-39	123
+# BLASTP 2.17.0+
+# Query: WP_010869382
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869362
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869362	WP_011166889	34.454	119	78	0	1	119	1	119	3.62e-24	83.6
+# BLASTP 2.17.0+
+# Query: WP_010869307
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869307	WP_020862945	43.192	213	120	1	1	212	1	213	4.91e-55	169
+# BLASTP 2.17.0+
+# Query: WP_009885921
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885921	WP_020862826	35.493	355	212	8	5	355	3	344	1.47e-51	170
+# BLASTP 2.17.0+
+# Query: WP_009885918
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885912
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885912	WP_017698243	43.350	203	115	0	4	206	5	207	6.55e-65	193
+# BLASTP 2.17.0+
+# Query: WP_009885879
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885879	WP_013729753	55.786	337	139	5	9	337	4	338	6.24e-128	363
+# BLASTP 2.17.0+
+# Query: WP_009885861
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885861	WP_008362476	47.664	107	56	0	15	121	22	128	3.11e-35	111
+# BLASTP 2.17.0+
+# Query: WP_009885853
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885853	WP_011166897	39.655	116	67	2	1	115	3	116	2.32e-18	68.2
+# BLASTP 2.17.0+
+# Query: WP_009885844
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885844	WP_011166904	51.190	84	40	1	1	84	1	83	4.77e-23	78.2
+# BLASTP 2.17.0+
+# Query: WP_009885843
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885829
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885712
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885712	WP_020862957	39.167	240	111	8	4	238	2	211	7.47e-43	138
+# BLASTP 2.17.0+
+# Query: WP_009885672
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885672	WP_020863053	34.395	157	85	2	17	166	52	197	3.95e-25	89.7
+# BLASTP 2.17.0+
+# Query: WP_009885649
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885649	WP_013729932	32.456	114	76	1	1	113	1	114	1.39e-15	63.2
+# BLASTP 2.17.0+
+# Query: WP_009885638
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885638	WP_011167140	57.664	137	56	2	1	136	1	136	2.29e-56	166
+# BLASTP 2.17.0+
+# Query: WP_009885599
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885599	WP_013729684	34.177	237	146	5	10	241	6	237	5.07e-38	126
+# BLASTP 2.17.0+
+# Query: WP_009885581
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885581	WP_020862510	40.989	283	163	3	5	287	3	281	5.47e-70	212
+# BLASTP 2.17.0+
+# Query: WP_009885557
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885557	WP_020862452	45.506	178	86	5	5	176	1	173	8.65e-47	147
+# BLASTP 2.17.0+
+# Query: WP_009885859
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885846
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885716
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885716	WP_013729924	32.609	138	61	3	5	141	15	121	1.30e-15	67.8
+# BLASTP 2.17.0+
+# Query: WP_010869380
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869380	WP_020862816	36.585	123	78	0	1	123	1	123	1.21e-26	90.9
+# BLASTP 2.17.0+
+# Query: WP_010869323
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869323	WP_013729913	50.442	226	110	2	1	224	1	226	7.76e-78	227
+# BLASTP 2.17.0+
+# Query: WP_009885745
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885745	WP_020862623	32.105	190	115	5	9	192	3	184	1.00e-22	84.0
+# BLASTP 2.17.0+
+# Query: WP_318023718
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869488
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869462
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869462	WP_020862726	28.014	282	187	6	6	279	9	282	2.69e-16	70.9
+# BLASTP 2.17.0+
+# Query: WP_010869447
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869368
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869368	WP_020862819	39.080	348	200	8	1	339	1	345	1.42e-77	235
+# BLASTP 2.17.0+
+# Query: WP_010869325
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869325	WP_017698093	34.343	297	181	6	1	289	1	291	4.49e-51	165
+# BLASTP 2.17.0+
+# Query: WP_010869324
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885989
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885970
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885867
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885867	WP_020862896	29.796	245	157	8	10	244	11	250	1.39e-22	86.3
+# BLASTP 2.17.0+
+# Query: WP_009885860
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885860	WP_008362477	63.333	120	44	0	1	120	1	120	4.41e-54	159
+# BLASTP 2.17.0+
+# Query: WP_009885838
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885838	WP_013729793	58.719	281	112	4	1	280	1	278	2.35e-113	322
+# BLASTP 2.17.0+
+# Query: WP_009885821
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885816
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885772
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885772	WP_020862505	39.568	278	164	3	4	279	5	280	4.13e-63	194
+# BLASTP 2.17.0+
+# Query: WP_009885769
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885769	WP_013729659	43.617	94	53	0	1	94	1	94	2.51e-24	82.4
+# BLASTP 2.17.0+
+# Query: WP_009885743
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885743	WP_013729691	30.861	337	218	9	4	330	2	333	8.91e-41	139
+# BLASTP 2.17.0+
+# Query: WP_009885708
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885708	WP_020862478	38.245	319	178	6	7	311	3	316	1.30e-68	210
+# BLASTP 2.17.0+
+# Query: WP_009885680
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885680	WP_020862651	42.059	340	185	5	6	344	7	335	5.59e-83	249
+# BLASTP 2.17.0+
+# Query: WP_009885613
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885613	WP_013729591	53.200	250	116	1	80	328	18	267	2.96e-90	265
+WP_009885613	WP_011387091	27.165	254	167	6	79	329	2	240	9.21e-30	110
+WP_009885613	WP_020862898	32.422	256	159	7	67	314	5	254	9.38e-29	106
+WP_009885613	WP_020862438	31.799	239	130	10	57	283	90	307	5.46e-28	105
+WP_009885613	WP_020862931	28.807	243	151	11	82	312	4	236	3.93e-14	64.3
+# BLASTP 2.17.0+
+# Query: WP_009885568
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885562
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885562	WP_013729160	23.797	395	261	14	1	379	1	371	4.44e-20	84.0
+# BLASTP 2.17.0+
+# Query: WP_009885906
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885938
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869428
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943775
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894056
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869459
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869456
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869445
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869442
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869436
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869429
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869406
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869397
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869378
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869370
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869357
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869356
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869354
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869339
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885996
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885940
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885931
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885898
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885830
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885815
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885758
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885720
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885633
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885627
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885577
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885605
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869415
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869415	WP_020862716	42.781	374	200	7	4	367	1	370	5.52e-100	295
+# BLASTP 2.17.0+
+# Query: WP_010869485
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869485	WP_020862697	47.945	219	113	1	1	218	1	219	8.14e-75	220
+# BLASTP 2.17.0+
+# Query: WP_009885589
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885589	WP_020862697	47.945	219	113	1	1	218	1	219	7.12e-75	220
+# BLASTP 2.17.0+
+# Query: WP_318023847
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_318023844
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885937
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885937	WP_020862600	36.243	378	231	6	9	379	4	378	3.74e-65	206
+# BLASTP 2.17.0+
+# Query: WP_009885905
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885677
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885677	WP_017698152	35.185	324	158	9	17	306	20	325	3.76e-40	136
+# BLASTP 2.17.0+
+# Query: WP_148211297
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943760
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885960
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885960	WP_020862650	40.625	352	199	5	8	352	3	351	1.22e-80	244
+# BLASTP 2.17.0+
+# Query: WP_009885902
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_268741293
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_268741285
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943770
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886008
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885747
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885643
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_261156652
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943745
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_234943745	WP_020862573	36.126	191	108	5	28	207	12	199	6.72e-33	111
+# BLASTP 2.17.0+
+# Query: WP_009885810
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885724
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885724	WP_013729885	39.583	144	86	1	3	145	5	148	5.23e-34	110
+# BLASTP 2.17.0+
+# Query: WP_244374789
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885754
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885754	WP_020862668	31.176	170	115	2	23	190	7	176	6.68e-22	82.8
+# BLASTP 2.17.0+
+# Query: WP_010869438
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869438	WP_017697956	40.136	147	84	3	3	145	5	151	2.53e-29	101
+# BLASTP 2.17.0+
+# Query: WP_009885944
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885944	WP_020862708	48.804	209	105	2	2	209	3	210	7.79e-64	193
+# BLASTP 2.17.0+
+# Query: WP_009885943
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885862
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885862	WP_013729784	42.071	309	168	3	20	327	17	315	2.62e-88	261
+# BLASTP 2.17.0+
+# Query: WP_009885831
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885591
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885591	WP_020862698	27.376	263	166	5	15	253	26	287	5.63e-23	89.0
+# BLASTP 2.17.0+
+# Query: WP_009885571
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885571	WP_020862782	45.016	311	164	4	5	311	7	314	1.41e-90	266
+# BLASTP 2.17.0+
+# Query: WP_237711663
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943787
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943784
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943781
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943780
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943778
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943772
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943769
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943768
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943765
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943764
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943762
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943759
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943758
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943751
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943750
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943747
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943746
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943741
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943739
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943732
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_234943728
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894407
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_193328793
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_050755524
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885836
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885836	WP_013729795	39.320	206	123	1	3	208	2	205	3.87e-47	148
+# BLASTP 2.17.0+
+# Query: WP_009885818
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885818	WP_013729912	26.316	152	109	2	8	158	11	160	8.35e-14	58.9
+# BLASTP 2.17.0+
+# Query: WP_009885647
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885785
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885785	ACU79001	36.416	173	93	4	18	185	13	173	1.10e-22	86.7
+# BLASTP 2.17.0+
+# Query: WP_009885737
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885737	WP_011166421	35.260	173	105	4	11	180	12	180	2.39e-31	105
+# BLASTP 2.17.0+
+# Query: WP_009885634
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885602
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885602	ADH21521	38.934	244	139	5	1	237	1	241	7.00e-49	155
+# BLASTP 2.17.0+
+# Query: WP_009885567
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885567	WP_013730013	65.116	43	15	0	1	43	1	43	1.44e-16	58.9
+# BLASTP 2.17.0+
+# Query: WP_010869358
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869358	WP_020862902	44.175	206	109	2	3	208	1	200	3.17e-57	176
+# BLASTP 2.17.0+
+# Query: WP_009885858
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885858	WP_011167188	42.029	69	40	0	2	70	3	71	1.37e-18	65.9
+# BLASTP 2.17.0+
+# Query: WP_009885771
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885771	WP_008362816	63.441	93	32	1	8	100	3	93	2.15e-38	117
+# BLASTP 2.17.0+
+# Query: WP_009885824
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885824	WP_020862738	36.280	328	202	3	3	323	2	329	2.66e-64	200
+# BLASTP 2.17.0+
+# Query: WP_009885663
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_193328797
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_193328796
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_193328796	WP_020863003	37.275	389	236	6	10	397	9	390	7.26e-85	258
+# BLASTP 2.17.0+
+# Query: WP_009885807
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869404
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885910
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869464
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869375
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869375	WP_013729425	38.941	321	184	4	1	316	2	315	3.17e-74	225
+# BLASTP 2.17.0+
+# Query: WP_009885723
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885723	WP_020863017	41.964	336	181	5	5	329	1	333	1.51e-90	268
+# BLASTP 2.17.0+
+# Query: WP_009885669
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885669	WP_020862619	32.979	188	113	6	18	192	19	206	4.46e-20	78.2
+# BLASTP 2.17.0+
+# Query: WP_009885856
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885856	AMW76600	36.224	196	111	5	9	196	4	193	8.61e-33	111
+# BLASTP 2.17.0+
+# Query: WP_036446354
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869408
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885592
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885587
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885847
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885847	WP_013729791	58.989	178	73	0	2	179	3	180	4.93e-76	219
+# BLASTP 2.17.0+
+# Query: WP_010869475
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869475	WP_013729777	54.962	131	57	1	2	132	4	132	1.20e-44	136
+# BLASTP 2.17.0+
+# Query: WP_010869398
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869398	WP_020862529	35.211	71	44	2	14	84	16	84	4.67e-12	50.8
+# BLASTP 2.17.0+
+# Query: WP_010869359
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869359	WP_013729790	46.923	130	65	2	12	141	4	129	1.55e-37	118
+# BLASTP 2.17.0+
+# Query: WP_009885848
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885848	WP_008362512	70.492	61	18	0	1	61	1	61	3.32e-30	94.4
+# BLASTP 2.17.0+
+# Query: WP_009885976
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885756
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885805
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869376
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869427
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869340
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869340	WP_020863002	34.835	333	193	12	10	331	5	324	1.33e-48	160
+# BLASTP 2.17.0+
+# Query: WP_009885600
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885600	WP_020862825	38.047	297	182	1	1	297	1	295	1.84e-69	211
+# BLASTP 2.17.0+
+# Query: WP_010869399
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869399	WP_020862494	27.491	291	204	3	2	290	7	292	4.01e-32	114
+# BLASTP 2.17.0+
+# Query: WP_009885837
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885837	WP_013729794	35.417	96	59	2	1	96	1	93	3.21e-11	48.9
+# BLASTP 2.17.0+
+# Query: WP_010869413
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885809
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885809	WP_020862682	49.645	141	71	0	1	141	1	141	1.42e-46	145
+# BLASTP 2.17.0+
+# Query: WP_010869364
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869470
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885878
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885878	WP_017697973	41.433	321	177	6	1	314	1	317	1.80e-77	233
+# BLASTP 2.17.0+
+# Query: WP_009885865
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885865	WP_020862898	44.922	256	140	1	17	271	21	276	7.02e-78	233
+WP_009885865	WP_020862438	33.503	197	117	7	44	236	138	324	2.96e-24	94.0
+WP_009885865	WP_011387091	27.928	222	134	8	36	248	20	224	1.77e-22	89.4
+WP_009885865	WP_013729591	29.493	217	134	6	45	250	46	254	9.30e-19	77.4
+WP_009885865	WP_020862931	25.630	238	154	8	14	239	2	228	9.88e-16	68.6
+# BLASTP 2.17.0+
+# Query: WP_009885793
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885793	WP_020862532	53.890	347	147	4	20	356	18	361	8.98e-121	347
+# BLASTP 2.17.0+
+# Query: WP_009885619
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885619	WP_020862992	44.776	67	37	0	33	99	34	100	1.68e-13	54.7
+# BLASTP 2.17.0+
+# Query: WP_029329843
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_029329843	WP_013729530	42.000	100	57	1	14	112	19	118	3.59e-26	89.0
+# BLASTP 2.17.0+
+# Query: WP_009885950
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869469
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869387
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869387	WP_020862710	31.700	347	221	8	1	342	1	336	3.96e-53	173
+# BLASTP 2.17.0+
+# Query: WP_009885864
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+WP_009885864	WP_020862898	35.385	260	147	7	13	254	25	281	2.73e-44	145
+WP_009885864	WP_011387091	33.790	219	140	4	13	229	10	225	4.73e-33	117
+WP_009885864	WP_020862438	29.208	202	134	4	20	216	127	324	1.13e-23	91.7
+WP_009885864	WP_020862931	29.148	223	139	7	12	219	10	228	3.00e-20	80.9
+WP_009885864	WP_013729591	25.909	220	147	6	27	233	41	257	2.76e-18	75.5
+# BLASTP 2.17.0+
+# Query: WP_009885739
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885739	WP_011387092	51.282	117	57	0	2	118	3	119	8.66e-39	120
+# BLASTP 2.17.0+
+# Query: WP_009885556
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869467
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885721
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885721	WP_020862803	32.759	290	163	9	3	273	13	289	3.61e-37	127
+# BLASTP 2.17.0+
+# Query: WP_010869385
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885751
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885751	WP_011166756	29.661	118	68	4	1	113	1	108	5.51e-11	48.9
+# BLASTP 2.17.0+
+# Query: WP_009885573
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885573	WP_020862585	35.465	172	106	1	3	169	8	179	8.85e-40	127
+# BLASTP 2.17.0+
+# Query: WP_010869484
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869484	WP_013729530	42.574	101	57	1	17	116	19	119	3.41e-27	91.3
+# BLASTP 2.17.0+
+# Query: WP_009886015
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885977
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885648
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885648	WP_011166236	50.000	54	25	1	51	102	20	73	2.30e-14	56.6
+# BLASTP 2.17.0+
+# Query: WP_009885626
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885626	WP_020862995	42.953	149	81	3	1	148	1	146	2.97e-38	121
+# BLASTP 2.17.0+
+# Query: WP_010869345
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885804
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885777
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885777	WP_020862710	29.688	320	209	8	4	318	28	336	1.62e-41	141
+# BLASTP 2.17.0+
+# Query: WP_010869332
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869301
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885993
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885993	WP_013729393	45.395	152	80	2	8	158	7	156	4.71e-39	124
+# BLASTP 2.17.0+
+# Query: WP_009885698
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885698	WP_017698038	39.785	186	100	5	11	186	16	199	3.43e-40	130
+# BLASTP 2.17.0+
+# Query: WP_009885682
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885682	WP_020862616	29.327	208	138	6	1	200	1	207	8.18e-24	90.5
+# BLASTP 2.17.0+
+# Query: WP_009885618
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885618	WP_013729901	31.481	270	137	7	40	280	23	273	3.00e-26	98.2
+# BLASTP 2.17.0+
+# Query: WP_009885588
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885588	WP_013729527	51.064	94	44	1	1	94	1	92	3.83e-31	99.4
+# BLASTP 2.17.0+
+# Query: WP_009885569
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885569	WP_020863081	31.414	382	206	12	40	384	30	392	5.42e-38	134
+# BLASTP 2.17.0+
+# Query: WP_009885813
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885913
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885913	WP_013729564	26.455	189	125	7	1	181	1	183	4.08e-11	52.8
+# BLASTP 2.17.0+
+# Query: WP_009885966
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885966	WP_020862659	54.000	50	23	0	24	73	32	81	1.13e-15	58.9
+# BLASTP 2.17.0+
+# Query: WP_010869391
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_010869391	WP_020862745	37.405	262	156	4	4	264	1	255	5.78e-55	172
+# BLASTP 2.17.0+
+# Query: WP_010869288
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869289
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869338
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885733
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886009
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_041593670
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885803
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885650
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885683
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885750
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885752
+# Database: ./db/CP014940
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+WP_009885752	WP_020862806	32.911	237	142	7	25	257	38	261	3.96e-28	103
+# BLASTP 2.17.0+
+# Query: WP_009885873
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_041593680
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_041593671
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_041593668
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_029329859
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885659
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886012
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009886004
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885900
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885687
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885959
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885732
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885710
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885576
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885564
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885901
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885892
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_009885728
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894048
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_014894000
+# Database: ./db/CP014940
+# 0 hits found
+# BLASTP 2.17.0+
+# Query: WP_010869396
+# Database: ./db/CP014940
+# 0 hits found
+# BLAST processed 433 queries

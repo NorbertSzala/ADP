@@ -1,0 +1,68 @@
+gtalign 0.19.00                            Thu Mar 12 18:59:08 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (99 residues):
+data/Mycgen/WP_009885770_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ Legend:
+TM-score (Refn./Query), Reference/Query length-normalized TM-score
+2TM-score, secondary TM-score excluding unmatched helices
+d0 (Refn./Query), Normalizing inter-residue distance d0 for Reference/Query
+RMSD, Root-mean-square deviation (A); Chn, Chain; (M), Model
++, pairs of aligned residues within a distance of 5 A
+Secondary structure: h, Helix; e, Strand; t, Turn
+
+
+                             Query_length-normalized_TM-score| RMSD|Reference_alignment_boundaries|
+                  Reference_length-normalized_TM-score|    Query_alignment_boundaries|
+   No.|                   Reference_description|        #Aligned_residues|             Reference_length|
+
+     1 ...14940/CAJ1992355_esmfold_v1.pdb Chn:A 0.2873 0.5000  4.02    83     1-99       10-125     209
+
+
+
+1.           
+>data/CP014940/CAJ1992355_esmfold_v1.pdb Chn:A
+  Length: Refn. = 209, Query = 99
+
+ TM-score (Refn./Query) = 0.28731 / 0.49996, d0 (Refn./Query) = 5.38 / 3.63,  RMSD = 4.02 A
+ Identities = 9/132 (6%), Matched = 65/132 (49%), Gaps = 49/132 (37%)
+
+struct         eeee tt eee t                    t   t     h   hhhhhhhhhhhhhh   tht eeeee h  t
+Query:     1 MIKINISQNFLVAKG-H-----------------ALFAEK-----GKDIVCAAISGIIFGGVAWFEPDKIEFTENKL--V 55   
+             +I+++++++++++++                    ++          +  C+ I ++  g+++       E++++++  +
+Refn.:    10 PISWAQRPEYVLITIPLQDTTGVSVEIKDEGRELCFACS-SPEHKQYA--CT-I-HFY-GVIS-S-E---ESQHVVRPRQ 78   
+struct        eeeee tt eeeeeee  e  eeeee tht  eeeeee  tt  eee  ee e e    eee   h     eeee tt 
+
+struct        eeeeee      e thhh hhhhhhhhhhhhhhhh  ht ee e  eee  
+Query:    56 PSIALKLI----DPTPNVA-VAFSVITVQLKAIANSYPNHIVI-N--EESYE 99   
+             ++++L+       ++++   +  +  ++ L+++ ++  ++I+I +  +++++
+Refn.:    79 IELKLRK-KFSKSLEDASDDE-VE--WPRLTKE-KAKYPNISIDWSKWKDEN 125  
+struct       eeeeeee e  t th   thh h            hh    ee  h  e th
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.237599   0.915948  -0.323398          4.539013
+    0.452747  -0.190131  -0.871131          1.248376
+   -0.859399  -0.353398  -0.369518          3.982810
+
+
+
+Query length: 99
+Total length of reference structures: 44523
+Search space: 4407777
+Time elapsed from process initiation: 477.934204 sec
+Query batch execution time: 2.374496 sec
+Query batch size: 2
+Device: "n/a"
+

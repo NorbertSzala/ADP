@@ -1,0 +1,90 @@
+# filtering
+awk '$3 > 0.5 || $4 > 0.5' ./results/Mycgen2CP014940_TMalign.tsv | cut -f1 | sort | uniq -c | sort -nr
+     41 WP_261156652_esmfold_v1.pdb
+     19 WP_009886004_esmfold_v1.pdb
+     16 WP_234943728_esmfold_v1.pdb
+     13 WP_009886012_esmfold_v1.pdb
+      6 WP_009885728_esmfold_v1.pdb
+      5 WP_014894048_esmfold_v1.pdb
+...
+      1 Total CPU time is 2106.39 seconds
+      1 #PDBchain1
+
+awk '$3 > 0.5 || $4 > 0.5' ./results/Mycgen2CP014940_TMalign.tsv | cut -f1 | sort | uniq -c | sort -nr | wc
+     lines: 77     words: 159    bytes: 2761
+
+
+# Run foldseek
+time ./programs/foldseek/bin/foldseek search \
+db/Mycgen_foldseek \
+db/CP014940_foldseek \
+results/foldseek_res \
+results/tmp \
+-a \
+--alignment-type 1
+
+
+real 2m14.996s
+user 16m27.671s
+sys  0m1.602s
+
+
+
+#Convert to readable table
+./programs/foldseek/bin/foldseek convertalis \
+db/Mycgen_foldseek \
+db/CP014940_foldseek \
+results/foldseek_res \
+results/Mycgen_vs_CP014940_foldseek.tsv \
+--format-output "query,target,qtmscore,ttmscore,evalue,bits"
+
+# count hits
+cut -f1 results/Mycgen_vs_CP014940_foldseek.tsv | sort | uniq | wc -l
+372
+
+#then compare by PyMol the same predicted proteins
+
+
+
+####################
+###### gtalign ######
+####################
+time gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+real 8m34.303s
+user 8m53.114s
+sys  0m3.535s
+
+
+# count hits
+or f in results/gtalign/*.out; do
+    n=$(awk '/^ *[0-9]+ .*\.pdb /{c++} END{print c+0}' "$f")
+    if [ "$n" -gt 0 ]; then
+        echo "$f"
+    fi
+done | wc -l
+
+160 hits
+
+# then compare by PyMol the same predicted proteins
+
+
+
+
+433 results/blast_all_queries.txt
+253 results/blast_nohits.txt
+180 results/blast_hits.txt
+tmalign hits: 77
+gtalign hits: 160
+
+comm -12 <(sort results/blast_hits.txt) <(sort results/foldseek_hits_clean.txt)
+WP_009885724
+WP_009885743
+WP_009885844
+WP_010869293
+WP_010869310
+WP_010869360
+WP_234943788
+
+comm -12 <(sort results/tmalign_hits_clean.txt) <(sort results/foldseek_hits_clean.txt) 
+WP_010869310
+WP_234943788

@@ -1,0 +1,68 @@
+gtalign 0.19.00                            Thu Mar 12 18:59:42 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (49 residues):
+data/Mycgen/WP_009885991_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ Legend:
+TM-score (Refn./Query), Reference/Query length-normalized TM-score
+2TM-score, secondary TM-score excluding unmatched helices
+d0 (Refn./Query), Normalizing inter-residue distance d0 for Reference/Query
+RMSD, Root-mean-square deviation (A); Chn, Chain; (M), Model
++, pairs of aligned residues within a distance of 5 A
+Secondary structure: h, Helix; e, Strand; t, Turn
+
+
+                             Query_length-normalized_TM-score| RMSD|Reference_alignment_boundaries|
+                  Reference_length-normalized_TM-score|    Query_alignment_boundaries|
+   No.|                   Reference_description|        #Aligned_residues|             Reference_length|
+
+     1 ...14940/KAM0025408_esmfold_v1.pdb Chn:A 0.1113 0.4130  3.46    45     1-48      101-229     330
+
+
+
+1.           
+>data/CP014940/KAM0025408_esmfold_v1.pdb Chn:A
+  Length: Refn. = 330, Query = 49
+
+ TM-score (Refn./Query) = 0.11130 / 0.41304, d0 (Refn./Query) = 6.64 / 2.22,  RMSD = 3.46 A
+ Identities = 2/132 (1%), Matched = 38/132 (28%), Gaps = 87/132 (65%)
+
+struct                                                                    thh    t   t       
+Query:     1 RP-------G--------------F----------------------------N----QPHPNQFAQPNNFNPNMQQRPG 27   
+             R+                                                   +    +++  ++++ +  +++++++++
+Refn.:   101 RMPKGEYQPVAYSELVVDNNLLIYLKTSITKQIYLAGIKLPPNLDLNGKLNVLISKGVFNI--TLPV-LKNTDSYVMPDF 177  
+struct          tt      eeeee ht eeeeeee ht  eeeeeeee t      eeeeee ht eee  eee              
+
+struct           t t     th         h                            
+Query:    28 F-N-PNMQQRPNPS---------Q--L--MPK-GG-----L----------K 48   
+             + + +++++++++             +  +++ g+     +          +
+Refn.:   178 VDAMVKLPRPTPYCVVFGRSDLGKELCEVIAHPGVKSKSFTMYKKDTGESIY 229  
+struct       hhhhh               hhhhhhhhht         eeee tht  eee
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.154014  -0.980388  -0.122959         -1.360045
+    0.720181  -0.196585   0.665352         12.496056
+   -0.676475   0.013920   0.736334          4.578090
+
+
+
+Query length: 49
+Total length of reference structures: 44523
+Search space: 2181627
+Time elapsed from process initiation: 512.050724 sec
+Query batch execution time: 0.797559 sec
+Query batch size: 2
+Device: "n/a"
+

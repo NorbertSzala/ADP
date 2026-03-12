@@ -1,0 +1,95 @@
+gtalign 0.19.00                            Thu Mar 12 18:52:33 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (332 residues):
+data/Mycgen/WP_009885756_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ Legend:
+TM-score (Refn./Query), Reference/Query length-normalized TM-score
+2TM-score, secondary TM-score excluding unmatched helices
+d0 (Refn./Query), Normalizing inter-residue distance d0 for Reference/Query
+RMSD, Root-mean-square deviation (A); Chn, Chain; (M), Model
++, pairs of aligned residues within a distance of 5 A
+Secondary structure: h, Helix; e, Strand; t, Turn
+
+
+                             Query_length-normalized_TM-score| RMSD|Reference_alignment_boundaries|
+                  Reference_length-normalized_TM-score|    Query_alignment_boundaries|
+   No.|                   Reference_description|        #Aligned_residues|             Reference_length|
+
+     1 ...P014940/XAJ73652_esmfold_v1.pdb Chn:A 0.4635 0.1233  3.42    49   203-293       2-55       58
+     2 ...P014940/BAD12047_esmfold_v1.pdb Chn:A 0.4606 0.1625  3.05    64   108-249      17-87       87
+
+
+
+1.           
+>data/CP014940/XAJ73652_esmfold_v1.pdb Chn:A
+  Length: Refn. = 58, Query = 332
+
+ TM-score (Refn./Query) = 0.46346 / 0.12327, d0 (Refn./Query) = 2.54 / 6.65,  RMSD = 3.42 A
+ Identities = 5/96 (5%), Matched = 42/96 (43%), Gaps = 47/96 (48%)
+
+struct       hhhhhhhhhhhhhhhhhhhhhh    hhhhhhhhhhhhhhhhhhhhhhhhhhhhh     hhhhhh   ee   hhhhhh
+Query:   203 NLEAIRHNLEQKIQNQSKQLRTNFDTQKLDDKINELEIRMQKLTRNFESLSELSKHNSYPNYYEKLLPNGGDSMTNVFEK 282  
+             +  +++++++++++++S++ +  F+ ++++D++++++++++++++++                                 
+Refn.:     2 DI-DPYKEFGATVELLSFL-PSDFF-PSVRDLLDTASALYREALESP-E------------------------------- 46   
+struct           thhhhhhhhhhhh    thh   hhhhhhhhhhhhhhhhhh   h                               
+
+struct       hhhhh   hhh  hht
+Query:   283 ALMMN---LLR--TTL 293  
+                          t+l
+Refn.:    47 -----HCSP--HHTAL 55   
+struct               t  hhhhh
+
+ Rotation [3,3] and translation [3,1] for Query:
+   -0.993653  -0.087901  -0.070186         17.330929
+   -0.019845   0.751171  -0.659809         10.851505
+    0.110720  -0.654229  -0.748148         22.933434
+
+
+
+2.           
+>data/CP014940/BAD12047_esmfold_v1.pdb Chn:A
+  Length: Refn. = 87, Query = 332
+
+ TM-score (Refn./Query) = 0.46063 / 0.16248, d0 (Refn./Query) = 3.36 / 6.65,  RMSD = 3.05 A
+ Identities = 6/149 (4%), Matched = 62/149 (41%), Gaps = 85/149 (57%)
+
+struct            h                  thhhhhhhhht ht  hhhhhhh   thhhhhhhhhhhhhhhhhhhhhhhhh    
+Query:   108 PSFDLNNQQFNQPGFNQSPAFEITPQEQKAEQEMFGEEPPQVVREIHELPFEKIRSFLQSDFDSYNFRLNSLKSKL---- 183  
+                                                                                             
+Refn.:    17 Q---------------------------------------------------------------------------AEID 21   
+struct       t                                                                           hhhh
+
+struct          hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh    hhhhhhhhhhhhhhhhhhhhh
+Query:   184 ---DNALYSLDKTIQNTNENTANLEAIRHNLEQKIQNQSKQLRTNFDTQKLDDKINELEIRMQKLTRNF 249  
+                +  +++++++++++++++A+++++++++++++Q+++++ ++++++ +++D+++E++++++K+++N+
+Refn.:    22 RMVR-EAEQYADEDEKHRQRIAARNQLEAYVFNVKQSTQDA-GDKIPK-SDKDRVMEKCEETIKWLDNN 87   
+struct       hhhh hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh   h t t hhhhhhhhhhhhhhhhhh  
+
+ Rotation [3,3] and translation [3,1] for Query:
+    0.951895  -0.141495  -0.271798         -5.727941
+    0.204603   0.953795   0.220028        -16.344700
+    0.228107  -0.265054   0.936864        -10.783909
+
+
+
+Query length: 332
+Total length of reference structures: 44523
+Search space: 14781636
+Time elapsed from process initiation: 83.117196 sec
+Query batch execution time: 2.468756 sec
+Query batch size: 2
+Device: "n/a"
+

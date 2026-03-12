@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "CP014940",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "./data/CP014940_400aa_000-296.fas",
+  "number-of-letters": 64232,
+  "number-of-sequences": 297,
+  "last-updated": "2026-03-12T10:49:00",
+  "number-of-volumes": 1,
+  "bytes-total": 131054,
+  "bytes-to-cache": 67026,
+  "files": [
+    "CP014940.pdb",
+    "CP014940.phr",
+    "CP014940.pin",
+    "CP014940.pot",
+    "CP014940.psq",
+    "CP014940.ptf",
+    "CP014940.pto"
+  ]
+}

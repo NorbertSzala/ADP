@@ -1,0 +1,44 @@
+Method	Type	Runtime	Queries with hits	Notes	
+BLAST	sequence	1.27s	180	433 queries total, 253 without hits	
+TM-align	structure	2106.39 s	77	TM-score > 0.5	
+Foldseek	structure	134.996 s (~2m15s)	372	alignment-type = TMalign	
+GTalign	structure	8.34s	160	speed=13, pre-score=0.5	
+					
+					
+					
+Blast vs Foldseek				Tmalign vs Foldseek	
+Comparison	Count			Comparison	Count
+Detected by BLAST	180			TM-align hits	77
+Detected by Foldseek	372			Foldseek hits	372
+Detected by both	7			Detected by both	2
+Structure-only (Foldseek not BLAST)	365				
+					
+Common proteins – blast and foldseek				Common proteins – tmalign and foldseek	
+WP_009885724				WP_010869310	
+WP_009885743				WP_234943788	
+WP_009885844					
+WP_010869293					
+WP_010869310					
+WP_010869360					
+WP_234943788					
+					
+					
+Category	Count				
+Sequence hits (BLAST)	180				
+Structure hits (Foldseek)	372				
+Structure hits (GTalign)	160				
+Structure hits (TM-align)	77				
+					
+					
+					
+Proteins detected by structure – not by blast					
+WP_009885724					
+WP_009885743					
+WP_009885844					
+WP_009885939					
+WP_010869293					
+WP_010869310					
+WP_010869360					
+WP_010869408					
+WP_010869439					
+WP_234943788					

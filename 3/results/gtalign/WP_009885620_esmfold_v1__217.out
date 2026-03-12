@@ -1,0 +1,28 @@
+gtalign 0.19.00                            Thu Mar 12 18:56:44 2026
+
+Margelevicius, M. GTalign: spatial index-driven protein structure alignment, superposition, and search.
+Nat Commun 15, 7305 (2024).
+
+
+ Command line:
+gtalign --qrs=data/Mycgen --rfs=data/CP014940 -o results/gtalign --speed=13 --pre-score=0.5 -s 0
+
+ Query (208 residues):
+data/Mycgen/WP_009885620_esmfold_v1.pdb Chn:A
+
+ Searched:
+data/CP014940
+             221 structure(s)
+             44523 total residues
+
+ No structures found above a TM-score threshold of 0. (Pre-screening on!)
+
+
+Query length: 208
+Total length of reference structures: 44523
+Search space: 9260784
+Time elapsed from process initiation: 334.358017 sec
+Query batch execution time: 3.177500 sec
+Query batch size: 2
+Device: "n/a"
+
