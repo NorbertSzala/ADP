@@ -1,0 +1,443 @@
+Running predictESM.py with arguments: -I results/fastas/Mycgen_040-059.fas -O results/pdb/Mycgen_
+Predicting WP_029329858 → results/pdb/Mycgen_040-059/WP_029329858_esmfold_v1.pdb
+Predicting WP_010869472 → results/pdb/Mycgen_040-059/WP_010869472_esmfold_v1.pdb
+Predicting WP_010869407 → results/pdb/Mycgen_040-059/WP_010869407_esmfold_v1.pdb
+Predicting WP_009885999 → results/pdb/Mycgen_040-059/WP_009885999_esmfold_v1.pdb
+Predicting WP_009885990 → results/pdb/Mycgen_040-059/WP_009885990_esmfold_v1.pdb
+Predicting WP_009885987 → results/pdb/Mycgen_040-059/WP_009885987_esmfold_v1.pdb
+Predicting WP_009885949 → results/pdb/Mycgen_040-059/WP_009885949_esmfold_v1.pdb
+Predicting WP_009885939 → results/pdb/Mycgen_040-059/WP_009885939_esmfold_v1.pdb
+Predicting WP_009885915 → results/pdb/Mycgen_040-059/WP_009885915_esmfold_v1.pdb
+Predicting WP_009885914 → results/pdb/Mycgen_040-059/WP_009885914_esmfold_v1.pdb
+Predicting WP_009885812 → results/pdb/Mycgen_040-059/WP_009885812_esmfold_v1.pdb
+Predicting WP_009885786 → results/pdb/Mycgen_040-059/WP_009885786_esmfold_v1.pdb
+Predicting WP_009885774 → results/pdb/Mycgen_040-059/WP_009885774_esmfold_v1.pdb
+Predicting WP_009885691 → results/pdb/Mycgen_040-059/WP_009885691_esmfold_v1.pdb
+Predicting WP_009885689 → results/pdb/Mycgen_040-059/WP_009885689_esmfold_v1.pdb
+Predicting WP_009885595 → results/pdb/Mycgen_040-059/WP_009885595_esmfold_v1.pdb
+Predicting WP_009885572 → results/pdb/Mycgen_040-059/WP_009885572_esmfold_v1.pdb
+Predicting WP_010869425 → results/pdb/Mycgen_040-059/WP_010869425_esmfold_v1.pdb
+Predicting WP_010869363 → results/pdb/Mycgen_040-059/WP_010869363_esmfold_v1.pdb
+Predicting WP_010869348 → results/pdb/Mycgen_040-059/WP_010869348_esmfold_v1.pdb
+Processing results/fastas/Mycgen_040-059.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_060-079.fas -O results/pdb/Mycgen_
+Predicting WP_009885876 → results/pdb/Mycgen_060-079/WP_009885876_esmfold_v1.pdb
+Predicting WP_009885934 → results/pdb/Mycgen_060-079/WP_009885934_esmfold_v1.pdb
+Predicting WP_009885991 → results/pdb/Mycgen_060-079/WP_009885991_esmfold_v1.pdb
+Predicting WP_009885811 → results/pdb/Mycgen_060-079/WP_009885811_esmfold_v1.pdb
+Predicting WP_029329864 → results/pdb/Mycgen_060-079/WP_029329864_esmfold_v1.pdb
+Predicting WP_010869420 → results/pdb/Mycgen_060-079/WP_010869420_esmfold_v1.pdb
+Predicting WP_009885973 → results/pdb/Mycgen_060-079/WP_009885973_esmfold_v1.pdb
+Predicting WP_009885884 → results/pdb/Mycgen_060-079/WP_009885884_esmfold_v1.pdb
+Predicting WP_010869483 → results/pdb/Mycgen_060-079/WP_010869483_esmfold_v1.pdb
+Predicting WP_010869304 → results/pdb/Mycgen_060-079/WP_010869304_esmfold_v1.pdb
+Predicting WP_009885782 → results/pdb/Mycgen_060-079/WP_009885782_esmfold_v1.pdb
+Predicting WP_009885636 → results/pdb/Mycgen_060-079/WP_009885636_esmfold_v1.pdb
+Predicting WP_009885597 → results/pdb/Mycgen_060-079/WP_009885597_esmfold_v1.pdb
+Predicting WP_009885583 → results/pdb/Mycgen_060-079/WP_009885583_esmfold_v1.pdb
+Predicting WP_009885561 → results/pdb/Mycgen_060-079/WP_009885561_esmfold_v1.pdb
+Predicting WP_408634320 → results/pdb/Mycgen_060-079/WP_408634320_esmfold_v1.pdb
+Predicting WP_408634319 → results/pdb/Mycgen_060-079/WP_408634319_esmfold_v1.pdb
+Predicting WP_234943788 → results/pdb/Mycgen_060-079/WP_234943788_esmfold_v1.pdb
+Predicting WP_010869439 → results/pdb/Mycgen_060-079/WP_010869439_esmfold_v1.pdb
+Predicting WP_009885967 → results/pdb/Mycgen_060-079/WP_009885967_esmfold_v1.pdb
+Processing results/fastas/Mycgen_060-079.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_080-099.fas -O results/pdb/Mycgen_
+Predicting WP_009885962 → results/pdb/Mycgen_080-099/WP_009885962_esmfold_v1.pdb
+Predicting WP_009885904 → results/pdb/Mycgen_080-099/WP_009885904_esmfold_v1.pdb
+Predicting WP_009885894 → results/pdb/Mycgen_080-099/WP_009885894_esmfold_v1.pdb
+Predicting WP_009885741 → results/pdb/Mycgen_080-099/WP_009885741_esmfold_v1.pdb
+Predicting WP_009885601 → results/pdb/Mycgen_080-099/WP_009885601_esmfold_v1.pdb
+Predicting WP_009885566 → results/pdb/Mycgen_080-099/WP_009885566_esmfold_v1.pdb
+Predicting WP_010869344 → results/pdb/Mycgen_080-099/WP_010869344_esmfold_v1.pdb
+Predicting WP_010869310 → results/pdb/Mycgen_080-099/WP_010869310_esmfold_v1.pdb
+Predicting WP_010869293 → results/pdb/Mycgen_080-099/WP_010869293_esmfold_v1.pdb
+Predicting WP_009885896 → results/pdb/Mycgen_080-099/WP_009885896_esmfold_v1.pdb
+Predicting WP_009885882 → results/pdb/Mycgen_080-099/WP_009885882_esmfold_v1.pdb
+Predicting WP_009885799 → results/pdb/Mycgen_080-099/WP_009885799_esmfold_v1.pdb
+Predicting WP_009885773 → results/pdb/Mycgen_080-099/WP_009885773_esmfold_v1.pdb
+Predicting WP_009885765 → results/pdb/Mycgen_080-099/WP_009885765_esmfold_v1.pdb
+Predicting WP_009885706 → results/pdb/Mycgen_080-099/WP_009885706_esmfold_v1.pdb
+Predicting WP_009885697 → results/pdb/Mycgen_080-099/WP_009885697_esmfold_v1.pdb
+Predicting WP_009885688 → results/pdb/Mycgen_080-099/WP_009885688_esmfold_v1.pdb
+Predicting WP_009885667 → results/pdb/Mycgen_080-099/WP_009885667_esmfold_v1.pdb
+Predicting WP_009885584 → results/pdb/Mycgen_080-099/WP_009885584_esmfold_v1.pdb
+Predicting WP_009885563 → results/pdb/Mycgen_080-099/WP_009885563_esmfold_v1.pdb
+Processing results/fastas/Mycgen_080-099.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_100-119.fas -O results/pdb/Mycgen_
+Predicting WP_234943779 → results/pdb/Mycgen_100-119/WP_234943779_esmfold_v1.pdb
+Predicting WP_318023719 → results/pdb/Mycgen_100-119/WP_318023719_esmfold_v1.pdb
+Predicting WP_010869455 → results/pdb/Mycgen_100-119/WP_010869455_esmfold_v1.pdb
+Predicting WP_010869432 → results/pdb/Mycgen_100-119/WP_010869432_esmfold_v1.pdb
+Predicting WP_010869334 → results/pdb/Mycgen_100-119/WP_010869334_esmfold_v1.pdb
+Predicting WP_009886005 → results/pdb/Mycgen_100-119/WP_009886005_esmfold_v1.pdb
+Predicting WP_009885957 → results/pdb/Mycgen_100-119/WP_009885957_esmfold_v1.pdb
+Predicting WP_009885936 → results/pdb/Mycgen_100-119/WP_009885936_esmfold_v1.pdb
+Predicting WP_009885800 → results/pdb/Mycgen_100-119/WP_009885800_esmfold_v1.pdb
+Predicting WP_010869418 → results/pdb/Mycgen_100-119/WP_010869418_esmfold_v1.pdb
+Predicting WP_010869313 → results/pdb/Mycgen_100-119/WP_010869313_esmfold_v1.pdb
+Predicting WP_010869454 → results/pdb/Mycgen_100-119/WP_010869454_esmfold_v1.pdb
+Predicting WP_010869347 → results/pdb/Mycgen_100-119/WP_010869347_esmfold_v1.pdb
+Predicting WP_010869294 → results/pdb/Mycgen_100-119/WP_010869294_esmfold_v1.pdb
+Predicting WP_009885942 → results/pdb/Mycgen_100-119/WP_009885942_esmfold_v1.pdb
+Predicting WP_010869327 → results/pdb/Mycgen_100-119/WP_010869327_esmfold_v1.pdb
+Predicting WP_010869302 → results/pdb/Mycgen_100-119/WP_010869302_esmfold_v1.pdb
+Predicting WP_009885828 → results/pdb/Mycgen_100-119/WP_009885828_esmfold_v1.pdb
+Predicting WP_009885704 → results/pdb/Mycgen_100-119/WP_009885704_esmfold_v1.pdb
+Predicting WP_010869481 → results/pdb/Mycgen_100-119/WP_010869481_esmfold_v1.pdb
+Processing results/fastas/Mycgen_100-119.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_120-139.fas -O results/pdb/Mycgen_
+Predicting WP_009885899 → results/pdb/Mycgen_120-139/WP_009885899_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_120-139.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_140-159.fas -O results/pdb/Mycgen_
+Predicting WP_009885604 → results/pdb/Mycgen_140-159/WP_009885604_esmfold_v1.pdb
+Predicting WP_009885614 → results/pdb/Mycgen_140-159/WP_009885614_esmfold_v1.pdb
+Predicting WP_009885842 → results/pdb/Mycgen_140-159/WP_009885842_esmfold_v1.pdb
+Predicting WP_010869386 → results/pdb/Mycgen_140-159/WP_010869386_esmfold_v1.pdb
+Predicting WP_010869361 → results/pdb/Mycgen_140-159/WP_010869361_esmfold_v1.pdb
+Predicting WP_010869343 → results/pdb/Mycgen_140-159/WP_010869343_esmfold_v1.pdb
+Predicting WP_010869333 → results/pdb/Mycgen_140-159/WP_010869333_esmfold_v1.pdb
+Predicting WP_010869326 → results/pdb/Mycgen_140-159/WP_010869326_esmfold_v1.pdb
+Predicting WP_009885926 → results/pdb/Mycgen_140-159/WP_009885926_esmfold_v1.pdb
+Predicting WP_009885889 → results/pdb/Mycgen_140-159/WP_009885889_esmfold_v1.pdb
+Predicting WP_009885854 → results/pdb/Mycgen_140-159/WP_009885854_esmfold_v1.pdb
+Predicting WP_009885845 → results/pdb/Mycgen_140-159/WP_009885845_esmfold_v1.pdb
+Predicting WP_009885840 → results/pdb/Mycgen_140-159/WP_009885840_esmfold_v1.pdb
+Predicting WP_009885839 → results/pdb/Mycgen_140-159/WP_009885839_esmfold_v1.pdb
+Predicting WP_009885820 → results/pdb/Mycgen_140-159/WP_009885820_esmfold_v1.pdb
+Predicting WP_009885766 → results/pdb/Mycgen_140-159/WP_009885766_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_140-159.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_160-179.fas -O results/pdb/Mycgen_
+Predicting WP_009885857 → results/pdb/Mycgen_160-179/WP_009885857_esmfold_v1.pdb
+Predicting WP_234943763 → results/pdb/Mycgen_160-179/WP_234943763_esmfold_v1.pdb
+Predicting WP_234943761 → results/pdb/Mycgen_160-179/WP_234943761_esmfold_v1.pdb
+Predicting WP_014894390 → results/pdb/Mycgen_160-179/WP_014894390_esmfold_v1.pdb
+Predicting WP_010869411 → results/pdb/Mycgen_160-179/WP_010869411_esmfold_v1.pdb
+Predicting WP_010869402 → results/pdb/Mycgen_160-179/WP_010869402_esmfold_v1.pdb
+Predicting WP_010869400 → results/pdb/Mycgen_160-179/WP_010869400_esmfold_v1.pdb
+Predicting WP_010869393 → results/pdb/Mycgen_160-179/WP_010869393_esmfold_v1.pdb
+Predicting WP_010869360 → results/pdb/Mycgen_160-179/WP_010869360_esmfold_v1.pdb
+Predicting WP_010869335 → results/pdb/Mycgen_160-179/WP_010869335_esmfold_v1.pdb
+Predicting WP_009885961 → results/pdb/Mycgen_160-179/WP_009885961_esmfold_v1.pdb
+Predicting WP_009885920 → results/pdb/Mycgen_160-179/WP_009885920_esmfold_v1.pdb
+Predicting WP_009885917 → results/pdb/Mycgen_160-179/WP_009885917_esmfold_v1.pdb
+Predicting WP_009885916 → results/pdb/Mycgen_160-179/WP_009885916_esmfold_v1.pdb
+Predicting WP_009885895 → results/pdb/Mycgen_160-179/WP_009885895_esmfold_v1.pdb
+Predicting WP_009885835 → results/pdb/Mycgen_160-179/WP_009885835_esmfold_v1.pdb
+Predicting WP_009885819 → results/pdb/Mycgen_160-179/WP_009885819_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_160-179.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_180-199.fas -O results/pdb/Mycgen_
+Predicting WP_009885719 → results/pdb/Mycgen_180-199/WP_009885719_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_180-199.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_200-219.fas -O results/pdb/Mycgen_
+Predicting WP_009885649 → results/pdb/Mycgen_200-219/WP_009885649_esmfold_v1.pdb
+Predicting WP_009885638 → results/pdb/Mycgen_200-219/WP_009885638_esmfold_v1.pdb
+Predicting WP_009885599 → results/pdb/Mycgen_200-219/WP_009885599_esmfold_v1.pdb
+Predicting WP_009885581 → results/pdb/Mycgen_200-219/WP_009885581_esmfold_v1.pdb
+Predicting WP_009885557 → results/pdb/Mycgen_200-219/WP_009885557_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_200-219.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_220-239.fas -O results/pdb/Mycgen_
+Predicting WP_009885867 → results/pdb/Mycgen_220-239/WP_009885867_esmfold_v1.pdb
+Predicting WP_009885860 → results/pdb/Mycgen_220-239/WP_009885860_esmfold_v1.pdb
+Predicting WP_009885838 → results/pdb/Mycgen_220-239/WP_009885838_esmfold_v1.pdb
+Predicting WP_009885821 → results/pdb/Mycgen_220-239/WP_009885821_esmfold_v1.pdb
+Predicting WP_009885816 → results/pdb/Mycgen_220-239/WP_009885816_esmfold_v1.pdb
+Predicting WP_009885772 → results/pdb/Mycgen_220-239/WP_009885772_esmfold_v1.pdb
+Predicting WP_009885769 → results/pdb/Mycgen_220-239/WP_009885769_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_220-239.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_240-259.fas -O results/pdb/Mycgen_
+Predicting WP_010869445 → results/pdb/Mycgen_240-259/WP_010869445_esmfold_v1.pdb
+Predicting WP_010869442 → results/pdb/Mycgen_240-259/WP_010869442_esmfold_v1.pdb
+Predicting WP_010869436 → results/pdb/Mycgen_240-259/WP_010869436_esmfold_v1.pdb
+Predicting WP_010869429 → results/pdb/Mycgen_240-259/WP_010869429_esmfold_v1.pdb
+Predicting WP_010869406 → results/pdb/Mycgen_240-259/WP_010869406_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_240-259.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_260-279.fas -O results/pdb/Mycgen_
+Predicting WP_009885633 → results/pdb/Mycgen_260-279/WP_009885633_esmfold_v1.pdb
+Predicting WP_009885627 → results/pdb/Mycgen_260-279/WP_009885627_esmfold_v1.pdb
+Predicting WP_009885577 → results/pdb/Mycgen_260-279/WP_009885577_esmfold_v1.pdb
+Predicting WP_009885605 → results/pdb/Mycgen_260-279/WP_009885605_esmfold_v1.pdb
+Predicting WP_010869415 → results/pdb/Mycgen_260-279/WP_010869415_esmfold_v1.pdb
+Predicting WP_010869485 → results/pdb/Mycgen_260-279/WP_010869485_esmfold_v1.pdb
+Predicting WP_009885589 → results/pdb/Mycgen_260-279/WP_009885589_esmfold_v1.pdb
+Predicting WP_318023847 → results/pdb/Mycgen_260-279/WP_318023847_esmfold_v1.pdb
+Predicting WP_318023844 → results/pdb/Mycgen_260-279/WP_318023844_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_260-279.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_280-299.fas -O results/pdb/Mycgen_
+Predicting WP_009885747 → results/pdb/Mycgen_280-299/WP_009885747_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_280-299.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_300-319.fas -O results/pdb/Mycgen_
+Predicting WP_234943778 → results/pdb/Mycgen_300-319/WP_234943778_esmfold_v1.pdb
+Predicting WP_234943772 → results/pdb/Mycgen_300-319/WP_234943772_esmfold_v1.pdb
+Predicting WP_234943769 → results/pdb/Mycgen_300-319/WP_234943769_esmfold_v1.pdb
+Predicting WP_234943768 → results/pdb/Mycgen_300-319/WP_234943768_esmfold_v1.pdb
+Predicting WP_234943765 → results/pdb/Mycgen_300-319/WP_234943765_esmfold_v1.pdb
+Predicting WP_234943764 → results/pdb/Mycgen_300-319/WP_234943764_esmfold_v1.pdb
+Predicting WP_234943762 → results/pdb/Mycgen_300-319/WP_234943762_esmfold_v1.pdb
+Predicting WP_234943759 → results/pdb/Mycgen_300-319/WP_234943759_esmfold_v1.pdb
+Predicting WP_234943758 → results/pdb/Mycgen_300-319/WP_234943758_esmfold_v1.pdb
+Predicting WP_234943751 → results/pdb/Mycgen_300-319/WP_234943751_esmfold_v1.pdb
+Predicting WP_234943750 → results/pdb/Mycgen_300-319/WP_234943750_esmfold_v1.pdb
+Predicting WP_234943747 → results/pdb/Mycgen_300-319/WP_234943747_esmfold_v1.pdb
+Predicting WP_234943746 → results/pdb/Mycgen_300-319/WP_234943746_esmfold_v1.pdb
+Predicting WP_234943741 → results/pdb/Mycgen_300-319/WP_234943741_esmfold_v1.pdb
+Predicting WP_234943739 → results/pdb/Mycgen_300-319/WP_234943739_esmfold_v1.pdb
+Predicting WP_234943732 → results/pdb/Mycgen_300-319/WP_234943732_esmfold_v1.pdb
+Predicting WP_234943728 → results/pdb/Mycgen_300-319/WP_234943728_esmfold_v1.pdb
+Predicting WP_014894407 → results/pdb/Mycgen_300-319/WP_014894407_esmfold_v1.pdb
+Predicting WP_193328793 → results/pdb/Mycgen_300-319/WP_193328793_esmfold_v1.pdb
+Predicting WP_050755524 → results/pdb/Mycgen_300-319/WP_050755524_esmfold_v1.pdb
+Processing results/fastas/Mycgen_300-319.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_320-339.fas -O results/pdb/Mycgen_
+Predicting WP_009885836 → results/pdb/Mycgen_320-339/WP_009885836_esmfold_v1.pdb
+Predicting WP_009885818 → results/pdb/Mycgen_320-339/WP_009885818_esmfold_v1.pdb
+Predicting WP_009885647 → results/pdb/Mycgen_320-339/WP_009885647_esmfold_v1.pdb
+Predicting WP_009885785 → results/pdb/Mycgen_320-339/WP_009885785_esmfold_v1.pdb
+Predicting WP_009885737 → results/pdb/Mycgen_320-339/WP_009885737_esmfold_v1.pdb
+Predicting WP_009885634 → results/pdb/Mycgen_320-339/WP_009885634_esmfold_v1.pdb
+Predicting WP_009885602 → results/pdb/Mycgen_320-339/WP_009885602_esmfold_v1.pdb
+Predicting WP_009885567 → results/pdb/Mycgen_320-339/WP_009885567_esmfold_v1.pdb
+Predicting WP_010869358 → results/pdb/Mycgen_320-339/WP_010869358_esmfold_v1.pdb
+Predicting WP_009885858 → results/pdb/Mycgen_320-339/WP_009885858_esmfold_v1.pdb
+Predicting WP_009885771 → results/pdb/Mycgen_320-339/WP_009885771_esmfold_v1.pdb
+Predicting WP_009885824 → results/pdb/Mycgen_320-339/WP_009885824_esmfold_v1.pdb
+Predicting WP_009885663 → results/pdb/Mycgen_320-339/WP_009885663_esmfold_v1.pdb
+Predicting WP_193328797 → results/pdb/Mycgen_320-339/WP_193328797_esmfold_v1.pdb
+Predicting WP_193328796 → results/pdb/Mycgen_320-339/WP_193328796_esmfold_v1.pdb
+Predicting WP_009885807 → results/pdb/Mycgen_320-339/WP_009885807_esmfold_v1.pdb
+Predicting WP_010869404 → results/pdb/Mycgen_320-339/WP_010869404_esmfold_v1.pdb
+Predicting WP_009885910 → results/pdb/Mycgen_320-339/WP_009885910_esmfold_v1.pdb
+Predicting WP_010869464 → results/pdb/Mycgen_320-339/WP_010869464_esmfold_v1.pdb
+Predicting WP_010869375 → results/pdb/Mycgen_320-339/WP_010869375_esmfold_v1.pdb
+Processing results/fastas/Mycgen_320-339.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_340-359.fas -O results/pdb/Mycgen_
+Predicting WP_009885723 → results/pdb/Mycgen_340-359/WP_009885723_esmfold_v1.pdb
+Predicting WP_009885669 → results/pdb/Mycgen_340-359/WP_009885669_esmfold_v1.pdb
+Predicting WP_009885856 → results/pdb/Mycgen_340-359/WP_009885856_esmfold_v1.pdb
+Predicting WP_036446354 → results/pdb/Mycgen_340-359/WP_036446354_esmfold_v1.pdb
+Predicting WP_010869408 → results/pdb/Mycgen_340-359/WP_010869408_esmfold_v1.pdb
+Predicting WP_009885592 → results/pdb/Mycgen_340-359/WP_009885592_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_340-359.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_360-379.fas -O results/pdb/Mycgen_
+Predicting WP_009885837 → results/pdb/Mycgen_360-379/WP_009885837_esmfold_v1.pdb
+Predicting WP_010869413 → results/pdb/Mycgen_360-379/WP_010869413_esmfold_v1.pdb
+Predicting WP_009885809 → results/pdb/Mycgen_360-379/WP_009885809_esmfold_v1.pdb
+Predicting WP_010869364 → results/pdb/Mycgen_360-379/WP_010869364_esmfold_v1.pdb
+Predicting WP_010869470 → results/pdb/Mycgen_360-379/WP_010869470_esmfold_v1.pdb
+Predicting WP_009885878 → results/pdb/Mycgen_360-379/WP_009885878_esmfold_v1.pdb
+Predicting WP_009885865 → results/pdb/Mycgen_360-379/WP_009885865_esmfold_v1.pdb
+Predicting WP_009885793 → results/pdb/Mycgen_360-379/WP_009885793_esmfold_v1.pdb
+Predicting WP_009885619 → results/pdb/Mycgen_360-379/WP_009885619_esmfold_v1.pdb
+Predicting WP_029329843 → results/pdb/Mycgen_360-379/WP_029329843_esmfold_v1.pdb
+Predicting WP_009885950 → results/pdb/Mycgen_360-379/WP_009885950_esmfold_v1.pdb
+Predicting WP_010869469 → results/pdb/Mycgen_360-379/WP_010869469_esmfold_v1.pdb
+Predicting WP_010869387 → results/pdb/Mycgen_360-379/WP_010869387_esmfold_v1.pdb
+Predicting WP_009885864 → results/pdb/Mycgen_360-379/WP_009885864_esmfold_v1.pdb
+Predicting WP_009885739 → results/pdb/Mycgen_360-379/WP_009885739_esmfold_v1.pdb
+Predicting WP_009885556 → results/pdb/Mycgen_360-379/WP_009885556_esmfold_v1.pdb
+Predicting WP_010869467 → results/pdb/Mycgen_360-379/WP_010869467_esmfold_v1.pdb
+Predicting WP_009885721 → results/pdb/Mycgen_360-379/WP_009885721_esmfold_v1.pdb
+Predicting WP_010869385 → results/pdb/Mycgen_360-379/WP_010869385_esmfold_v1.pdb
+Predicting WP_009885751 → results/pdb/Mycgen_360-379/WP_009885751_esmfold_v1.pdb
+Processing results/fastas/Mycgen_360-379.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_380-399.fas -O results/pdb/Mycgen_
+Predicting WP_009885573 → results/pdb/Mycgen_380-399/WP_009885573_esmfold_v1.pdb
+Predicting WP_010869484 → results/pdb/Mycgen_380-399/WP_010869484_esmfold_v1.pdb
+Predicting WP_009886015 → results/pdb/Mycgen_380-399/WP_009886015_esmfold_v1.pdb
+Predicting WP_009885977 → results/pdb/Mycgen_380-399/WP_009885977_esmfold_v1.pdb
+Predicting WP_009885648 → results/pdb/Mycgen_380-399/WP_009885648_esmfold_v1.pdb
+Predicting WP_009885626 → results/pdb/Mycgen_380-399/WP_009885626_esmfold_v1.pdb
+Predicting WP_010869345 → results/pdb/Mycgen_380-399/WP_010869345_esmfold_v1.pdb
+Predicting WP_009885804 → results/pdb/Mycgen_380-399/WP_009885804_esmfold_v1.pdb
+Predicting WP_009885777 → results/pdb/Mycgen_380-399/WP_009885777_esmfold_v1.pdb
+Predicting WP_010869332 → results/pdb/Mycgen_380-399/WP_010869332_esmfold_v1.pdb
+Predicting WP_010869301 → results/pdb/Mycgen_380-399/WP_010869301_esmfold_v1.pdb
+Predicting WP_009885993 → results/pdb/Mycgen_380-399/WP_009885993_esmfold_v1.pdb
+Predicting WP_009885698 → results/pdb/Mycgen_380-399/WP_009885698_esmfold_v1.pdb
+Predicting WP_009885682 → results/pdb/Mycgen_380-399/WP_009885682_esmfold_v1.pdb
+Predicting WP_009885618 → results/pdb/Mycgen_380-399/WP_009885618_esmfold_v1.pdb
+Predicting WP_009885588 → results/pdb/Mycgen_380-399/WP_009885588_esmfold_v1.pdb
+Predicting WP_009885569 → results/pdb/Mycgen_380-399/WP_009885569_esmfold_v1.pdb
+Predicting WP_009885813 → results/pdb/Mycgen_380-399/WP_009885813_esmfold_v1.pdb
+Predicting WP_009885913 → results/pdb/Mycgen_380-399/WP_009885913_esmfold_v1.pdb
+Predicting WP_009885966 → results/pdb/Mycgen_380-399/WP_009885966_esmfold_v1.pdb
+Processing results/fastas/Mycgen_380-399.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_400-419.fas -O results/pdb/Mycgen_
+Predicting WP_010869391 → results/pdb/Mycgen_400-419/WP_010869391_esmfold_v1.pdb
+Predicting WP_010869288 → results/pdb/Mycgen_400-419/WP_010869288_esmfold_v1.pdb
+Predicting WP_010869289 → results/pdb/Mycgen_400-419/WP_010869289_esmfold_v1.pdb
+Predicting WP_010869338 → results/pdb/Mycgen_400-419/WP_010869338_esmfold_v1.pdb
+Predicting WP_009885733 → results/pdb/Mycgen_400-419/WP_009885733_esmfold_v1.pdb
+Predicting WP_009886009 → results/pdb/Mycgen_400-419/WP_009886009_esmfold_v1.pdb
+Predicting WP_041593670 → results/pdb/Mycgen_400-419/WP_041593670_esmfold_v1.pdb
+Predicting WP_009885803 → results/pdb/Mycgen_400-419/WP_009885803_esmfold_v1.pdb
+Predicting WP_009885650 → results/pdb/Mycgen_400-419/WP_009885650_esmfold_v1.pdb
+Predicting WP_009885683 → results/pdb/Mycgen_400-419/WP_009885683_esmfold_v1.pdb
+Predicting WP_009885750 → results/pdb/Mycgen_400-419/WP_009885750_esmfold_v1.pdb
+Predicting WP_009885752 → results/pdb/Mycgen_400-419/WP_009885752_esmfold_v1.pdb
+Traceback (most recent call last):
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 174, in <module>
+    main()
+    ~~~~^^
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 163, in main
+    pdb_structure = send_to_esm(seq)
+  File "/home/norbert/Studia_VisualCode/adp/2/scripts/predictESM.py", line 125, in send_to_esm
+    raise RuntimeError(f"ESM API error: {response.status_code}")
+RuntimeError: ESM API error: 504
+Processing results/fastas/Mycgen_400-419.fas
+Running predictESM.py with arguments: -I results/fastas/Mycgen_420-432.fas -O results/pdb/Mycgen_
+Predicting WP_009885900 → results/pdb/Mycgen_420-432/WP_009885900_esmfold_v1.pdb
+Predicting WP_009885687 → results/pdb/Mycgen_420-432/WP_009885687_esmfold_v1.pdb
+Predicting WP_009885959 → results/pdb/Mycgen_420-432/WP_009885959_esmfold_v1.pdb
+Predicting WP_009885732 → results/pdb/Mycgen_420-432/WP_009885732_esmfold_v1.pdb
+Predicting WP_009885710 → results/pdb/Mycgen_420-432/WP_009885710_esmfold_v1.pdb
+Predicting WP_009885576 → results/pdb/Mycgen_420-432/WP_009885576_esmfold_v1.pdb
+Predicting WP_009885564 → results/pdb/Mycgen_420-432/WP_009885564_esmfold_v1.pdb
+Predicting WP_009885901 → results/pdb/Mycgen_420-432/WP_009885901_esmfold_v1.pdb
+Predicting WP_009885892 → results/pdb/Mycgen_420-432/WP_009885892_esmfold_v1.pdb
+Predicting WP_009885728 → results/pdb/Mycgen_420-432/WP_009885728_esmfold_v1.pdb
+Predicting WP_014894048 → results/pdb/Mycgen_420-432/WP_014894048_esmfold_v1.pdb
+Predicting WP_014894000 → results/pdb/Mycgen_420-432/WP_014894000_esmfold_v1.pdb
+Predicting WP_010869396 → results/pdb/Mycgen_420-432/WP_010869396_esmfold_v1.pdb
+Processing results/fastas/Mycgen_420-432.fas
+No FASTA files found
+No FASTA files found
+No FASTA files found
+No FASTA files found
+No FASTA files found
+No FASTA files found
+No FASTA files found
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/
+usage: scan_fasta4ESM.py -I/--input [options]
+scan_fasta4ESM.py: error: unrecognized arguments: results/fastas/

@@ -46,6 +46,11 @@ through the web.
 ESM: https://github.com/facebookresearch/esm
 GOTO: "Quick start" section and see how the CURL command looks.
 
+>  ```bash
+curl -X POST --data "KVFGRCELAAAMKRHGLDNYRGYSLGNWVCAAKFESNFNTQATNRNTDGSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSDGNGMNAWVAWRNRCKGTDVQAWIRGCRL" https://api.esmatlas.com/foldSequence/v1/pdb/
+```
+
+
 As you can see, we can only send one sequence to ESM at a time, up to 400aa long. On the other hand, we have 22 files 
 (from the previous step) containing up to 20 sequences each.
 
